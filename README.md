@@ -8,6 +8,8 @@
 
 Kandilli Rasathanesi, AFAD ve Kayseri Büyükşehir Belediyesi gibi kaynaklardan gelen açık verileri interaktif bir harita üzerinde buluşturan şehir rehberi.
 
+<a href="http://kayserisehirportali.tr"><img src="https://img.shields.io/badge/Canlı_Demo-kayserisehirportali.tr-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Canlı Demo" /></a>
+
 <br />
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -24,6 +26,7 @@ Kandilli Rasathanesi, AFAD ve Kayseri Büyükşehir Belediyesi gibi kaynaklardan
 ![Stars](https://img.shields.io/github/stars/sadecedqn/kayserisehirportali-WiP?style=flat-square&color=eab308)
 ![Last Commit](https://img.shields.io/github/last-commit/sadecedqn/kayserisehirportali-WiP?style=flat-square&color=2563eb)
 
+[Canlı Site](http://kayserisehirportali.tr) •
 [Özellikler](#-özellikler) •
 [Katmanlar](#%EF%B8%8F-harita-katmanları) •
 [Mimari](#-mimari) •
