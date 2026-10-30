@@ -1,0 +1,21 @@
+#map { 
+    height: 100vh; 
+    width: 100%; 
+    z-index: 10; 
+}
+.glass-panel { 
+    background: rgba(255, 255, 255, 0.95); 
+    backdrop-filter: blur(10px); 
+}
+.custom-camera-icon { 
+    background: #f97316; 
+    color: white; 
+    border-radius: 50%; 
+    width: 32px; 
+    height: 32px; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    border: 2px solid white; 
+    box-shadow: 0 4px 6px rgba(0,0,0,0.3); 
+}

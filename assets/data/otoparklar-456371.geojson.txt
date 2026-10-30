@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "OTOPARKLAR",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CBNO": 2723.0, "ILCE_CBNO": 4.0, "MAH_CBNO": 195.0, "ADI": "TACETTİN VELİ KATLI OTOPARKI", "KATEGORI": 3, "ALTKATEGOR": 5, "KAT_ID": 22, "KISA_ADI": "TACETTİN VELİ KATLI OTOPARKI", "lat_DD": 38.715748, "lon_DD": 35.491699 }, "geometry": { "type": "Point", "coordinates": [ 35.491698696237201, 38.715747687325333 ] } },
+{ "type": "Feature", "properties": { "CBNO": 2724.0, "ILCE_CBNO": 4.0, "MAH_CBNO": 111.0, "ADI": "HUNAT KATLI OTOPARKI", "KATEGORI": 3, "ALTKATEGOR": 5, "KAT_ID": 22, "KISA_ADI": "HUNAT KATLI OTOPARKI", "lat_DD": 38.722065, "lon_DD": 35.493657 }, "geometry": { "type": "Point", "coordinates": [ 35.493656759828831, 38.722065335152124 ] } },
+{ "type": "Feature", "properties": { "CBNO": 2726.0, "ILCE_CBNO": 4.0, "MAH_CBNO": 37.0, "ADI": "YOĞUNBURÇ OTOPARKI", "KATEGORI": 3, "ALTKATEGOR": 5, "KAT_ID": 22, "KISA_ADI": "YOĞUNBURÇ OTOPARKI", "lat_DD": 38.718832, "lon_DD": 35.491398 }, "geometry": { "type": "Point", "coordinates": [ 35.491397759979236, 38.718832276288104 ] } },
+{ "type": "Feature", "properties": { "CBNO": 2727.0, "ILCE_CBNO": 3.0, "MAH_CBNO": 172.0, "ADI": "ADLİYE OTOPARKI", "KATEGORI": 3, "ALTKATEGOR": 5, "KAT_ID": 22, "KISA_ADI": "ADLİYE OTOPARKI", "lat_DD": 38.72373, "lon_DD": 35.489809 }, "geometry": { "type": "Point", "coordinates": [ 35.4898091897388, 38.723729747222656 ] } },
+{ "type": "Feature", "properties": { "CBNO": 2725.0, "ILCE_CBNO": 3.0, "MAH_CBNO": 88.0, "ADI": "KURŞUNLU OTOPARKI", "KATEGORI": 3, "ALTKATEGOR": 5, "KAT_ID": 22, "KISA_ADI": "KURŞUNLU OTOPARKI", "lat_DD": 38.72262, "lon_DD": 35.484011 }, "geometry": { "type": "Point", "coordinates": [ 35.484011103510916, 38.722619956326298 ] } },
+{ "type": "Feature", "properties": { "CBNO": 2722.0, "ILCE_CBNO": 4.0, "MAH_CBNO": 92.0, "ADI": "BEĞENDİK KATLI OTOPARKI", "KATEGORI": 3, "ALTKATEGOR": 5, "KAT_ID": 22, "KISA_ADI": "BEĞENDİK KATLI OTOPARKI", "lat_DD": 38.718811, "lon_DD": 35.483076 }, "geometry": { "type": "Point", "coordinates": [ 35.48307620858354, 38.718810580341845 ] } }
+]
+}
