@@ -1,0 +1,1429 @@
+ <meta http-equiv='Content-Type' content='text/html; charset=windows-1254' /><div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">ILCE</th><th scope="col">MAHALLE_KIMLIKNO</th><th scope="col">MAHALLE</th><th scope="col">ALAN</th><th scope="col">TN</th><th scope="col">NUFUS</th><th scope="col">MUHTAR_ADI</th><th scope="col">MUHTAR_CEP</th><th scope="col">MUHTAR_TEL</th>
+		</tr><tr>
+			<td>AKKIŞLA</td><td>181312</td><td>AKİN</td><td>2173,49</td><td>14</td><td>451</td><td>Hacı Mehmet KIZMAZ</td><td>0530 551 09 81</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>AKKIŞLA</td><td>180847</td><td>ALEVKIŞLA</td><td>753,56</td><td>8</td><td>156</td><td>Hacı Bekir DUMAN</td><td>0532 171 94 14</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>AKKIŞLA</td><td>180849</td><td>GANİŞEYH</td><td>5907,68</td><td>9</td><td>447</td><td>Mehmet KORKMAZ</td><td>0544 654 99 93</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>AKKIŞLA</td><td>180853</td><td>GİRİNCİ</td><td>2961,20</td><td>10</td><td>216</td><td>Osman AKKOYUN</td><td>0554 181 72 68</td><td>594 42 23</td>
+		</tr><tr>
+			<td>AKKIŞLA</td><td>180825</td><td>G&#214;M&#220;RGEN</td><td>1408,09</td><td>6</td><td>484</td><td>Ahmet YAL&#199;INKAYA</td><td>0530 380 85 60</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>AKKIŞLA</td><td>181310</td><td>G&#214;M&#220;RGEN YENİ</td><td>6408,20</td><td>13</td><td>540</td><td>Memet G&#214;KTAŞ</td><td>0530 053 81 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>AKKIŞLA</td><td>180855</td><td>G&#220;M&#220;ŞSU</td><td>858,11</td><td>11</td><td>129</td><td>Altan KO&#199;</td><td>0534 613 81 37</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>AKKIŞLA</td><td>180837</td><td>KULULU</td><td>4479,94</td><td>7</td><td>534</td><td>Ali BAYAZIT</td><td>0505 785 31 26</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>AKKIŞLA</td><td>183244</td><td>MANAVUZ</td><td>1431,06</td><td>15</td><td>171</td><td>Mahmut &#199;AKIR</td><td>0536 285 64 39</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>AKKIŞLA</td><td>180857</td><td>ORTAK&#214;Y</td><td>4364,18</td><td>12</td><td>667</td><td>İsmail BOZDAĞ</td><td>0536 685 36 27</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>AKKIŞLA</td><td>42124</td><td>ŞEN</td><td>1209,87</td><td>1</td><td>266</td><td>Erdi BUĞURCU</td><td>0542 556 96 89</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>AKKIŞLA</td><td>42125</td><td>UĞURLU</td><td>340,53</td><td>5</td><td>118</td><td>Doğan KARAKUŞ</td><td>0530 244 87 84</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>AKKIŞLA</td><td>42126</td><td>YENİ</td><td>641,56</td><td>2</td><td>644</td><td>Cemal KOCA</td><td>0534 212 51 53</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>AKKIŞLA</td><td>42127</td><td>YEŞİL</td><td>7473,27</td><td>3</td><td>305</td><td>&#214;zal Y&#220;Z&#220;G&#220;LL&#220;</td><td>0505 609 91 54</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>AKKIŞLA</td><td>42128</td><td>YUKARI</td><td>1065,73</td><td>4</td><td>312</td><td>Hasan TUNCEL</td><td>0538 956 56 47</td><td>591 35 61</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>180937</td><td>AĞCALI</td><td>1831,62</td><td>38</td><td>255</td><td>İsmail TURGUT</td><td>0 543 943 91 87</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>180901</td><td>AK&#199;ATI</td><td>2038</td><td>21</td><td>245</td><td>&#214;mer AYYILDIZ</td><td>0 532 659 81 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>180899</td><td>AKMESCİT</td><td>2710,94</td><td>20</td><td>1339</td><td>Bilal YILDIRIM</td><td>0 538 647 45 34</td><td>752 50 85</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>180903</td><td>ASMAKAYA</td><td>1318,41</td><td>22</td><td>23</td><td>Yaşar OĞUZ</td><td>0 537 922 62 64</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>42137</td><td>BAYRAMLI</td><td>13,05</td><td>1</td><td>355</td><td>Mehmet KESKİN</td><td>0 536 559 35 14</td><td>712 20 40</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>180905</td><td>BURHANİYE</td><td>1038,27</td><td>23</td><td>231</td><td>&#214;mer TEM&#220;RL&#220;</td><td>0 553 272 43 24</td><td>745 75 08</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>180861</td><td>B&#220;Y&#220;KTUZHİSAR</td><td>6453,76</td><td>14</td><td>1202</td><td>Mehmet &#199;ALIŞ</td><td>0 530 027 80 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>42138</td><td>CAMİİCEDİT</td><td>2470,46</td><td>4</td><td>262</td><td>Hakan KAŞ</td><td>0 534 982 91 01</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>42139</td><td>CAMİİKEBİR</td><td>1544,08</td><td>5</td><td>399</td><td>Fevzi PINARBAŞI</td><td>0 506 988 00 05</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>42140</td><td>CUMHURİYET</td><td>78,47</td><td>9</td><td>1311</td><td>Yunus KARANFİL</td><td>0 507 263 08 40</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>180907</td><td>DAĞARDI</td><td>3312,02</td><td>24</td><td>61</td><td>Noman BAŞPINAR</td><td>0 537 626 61 93</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>42141</td><td>DERVİŞAĞA</td><td>10,06</td><td>2</td><td>329</td><td>Tolga &#199;AKMAK</td><td>0 554 310 32 58</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>42142</td><td>DOĞANLAR</td><td>1805,57</td><td>13</td><td>111</td><td>Mustafa &#199;AP</td><td>0 539 221 41 32</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>180939</td><td>EKİNCİLER</td><td>2397,17</td><td>39</td><td>401</td><td>Kahraman HAS&#199;ELİK</td><td>0 536 245 25 18</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>180897</td><td>ELBAŞI</td><td>7642,75</td><td>19</td><td>687</td><td>Ramazan TEK</td><td>0 544 833 11 27</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>180909</td><td>EMİR&#214;REN</td><td>1549,60</td><td>25</td><td>107</td><td>Nevzat D&#214;NMEZ</td><td>0 533 770 06 93</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>42143</td><td>FATİH</td><td>3359,37</td><td>11</td><td>2787</td><td>Savaş BULUN</td><td>0 507 346 27 96 </td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>42148</td><td>GERGEME</td><td>3257,70</td><td>12</td><td>938</td><td>Mustafa CİVELEK</td><td>0 537 629 17 79</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>180941</td><td>GİRVELİ</td><td>1873,75</td><td>40</td><td>96</td><td>Emrullah ERCİYES</td><td>0 536 464 22 68</td><td>775 14 45</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>180871</td><td>G&#220;LL&#220;CE</td><td>4214,09</td><td>15</td><td>1581</td><td>Yusuf AKTAŞ</td><td>0 531 463 02 05</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>180911</td><td>HAZARŞAH</td><td>3686,30</td><td>26</td><td>213</td><td>Enver &#199;ELEBİYILMAZ </td><td>0 533 511 06 40</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>42144</td><td>İBRAHİMBEY</td><td>29,42</td><td>3</td><td>114</td><td>Mustafa ERCİYES</td><td>0 544 238 81 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>180913</td><td>İĞDECİK</td><td>2420,87</td><td>27</td><td>317</td><td>H&#252;seyin KARAFAKIOĞLU</td><td>0 507 745 03 82</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>180915</td><td>KAHVECİ</td><td>2496,87</td><td>28</td><td>264</td><td>Emre UZER</td><td>0 553 921 96 00</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>180917</td><td>KARACA&#214;REN</td><td>2224,19</td><td>29</td><td>158</td><td>H&#252;seyin &#214;ZTOPRAK</td><td>0 536 178 16 39</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>180919</td><td>KARAHIDIR</td><td>1340,67</td><td>30</td><td>211</td><td>H&#252;seyin Hulusi BARLAS</td><td>0 530 300 36 47</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>180877</td><td>KARAKAYA</td><td>3831,06</td><td>16</td><td>952</td><td>Hamdi AKTAŞ</td><td>0 532 463 76 19</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>180943</td><td>KARATAY</td><td>3979,60</td><td>41</td><td>585</td><td>Mehmet MEDET</td><td>0 530 691 89 11</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>180921</td><td>KARDEŞLER</td><td>974,76</td><td>31</td><td>150</td><td>Ahmet KARTAL</td><td>0 553 587 59 29</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>180887</td><td>KOYUNABDAL</td><td>6173,58</td><td>17</td><td>600</td><td>Baha TAŞ</td><td>0 536 248 28 95</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>180945</td><td>K&#214;PR&#220;BAŞI</td><td>6104,59</td><td>42</td><td>565</td><td>Erdal BOSTANCI</td><td>0 535 350 23 06</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>180923</td><td>K&#214;SEHACILI</td><td>1178,15</td><td>32</td><td>69</td><td>Erkan URAL</td><td>0 539 635 38 25</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>180925</td><td>MUSAŞEYH</td><td>1443</td><td>33</td><td>49</td><td>Ahmet Berrahi SARIKAYA</td><td>0 552 082 42 68</td><td>712 36 20</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>197755</td><td>PİRAHMET</td><td>3248,57</td><td>45</td><td>358</td><td>Nizam G&#220;LCEMAL</td><td>0 538 793 00 89</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>42145</td><td>SAĞLIK</td><td>2727,50</td><td>8</td><td>1129</td><td>G&#246;khan &#199;OLAK</td><td>0 506 674 12 44</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>180947</td><td>SAMAĞIR</td><td>4323,31</td><td>43</td><td>213</td><td>Ayşe &#214;ZT&#220;RK</td><td>0 553 018 93 14</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>180929</td><td>SIVGIN</td><td>3166,55</td><td>34</td><td>219</td><td>Mustafa MEMİŞ</td><td>0 507 918 19 16</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>180931</td><td>SULTANHANI</td><td>2064,92</td><td>35</td><td>285</td><td>Mustafa SEYFİ</td><td>0 537 679 62 40</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>42146</td><td>S&#220;MER</td><td>1457,19</td><td>6</td><td>1411</td><td>Soner KENDİR</td><td>0 554 631 13 55</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>180933</td><td>TA&#199;IN</td><td>4193,53</td><td>36</td><td>256</td><td>Mahmut DENİZ</td><td>0 537 327 30 78</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>180935</td><td>YAĞMURBEY</td><td>1147,69</td><td>37</td><td>73</td><td>&#214;mer MUTLUT&#220;RK</td><td>0 532 566 41 45</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>184208</td><td>YAKUTİYE</td><td>152,60</td><td>46</td><td>7350</td><td>Mustafa ARSLAN</td><td>0 536 335 83 19</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>42147</td><td>YAVUZ SELİM</td><td>4290,68</td><td>7</td><td>633</td><td>Hanife &#199;AKMAK</td><td>0 533 707 63 22</td><td>712 02 63</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>180895</td><td>YENİ S&#220;KS&#220;N</td><td>6564,06</td><td>18</td><td>926</td><td>Orhan &#199;AMDAL</td><td>0 535 283 21 20</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>42149</td><td>YENİCE</td><td>20,34</td><td>10</td><td>118</td><td>Emre ADIYAMAN</td><td>0 555 013 38 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>B&#220;NYAN</td><td>180949</td><td>Y&#220;N&#214;REN</td><td>3907,69</td><td>44</td><td>424</td><td>Emin EROĞLU</td><td>0 544 721 82 29</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>42171</td><td>ABDULBAKİ</td><td>2,29</td><td>14</td><td>106</td><td>Memduh ERKAN</td><td>0 533 602 90 94</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>42172</td><td>ALPASLAN</td><td>782,04</td><td>6</td><td>1810</td><td>Yusuf &#199;OBAN</td><td>0 536 612 98 00</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>42173</td><td>AŞAĞIEVEREK</td><td>48,47</td><td>16</td><td>1376</td><td>&#214;zg&#252;r KARLI</td><td>0 538 235 78 78</td><td>621 28 12</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>42174</td><td>AŞIK SEYRANİ</td><td>5757,82</td><td>1</td><td>4634</td><td>S&#252;leyman &#214;Z&#220;BERK</td><td>0 531 837 60 22</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>180961</td><td>AYŞEPINAR</td><td>4558,76</td><td>31</td><td>474</td><td>Candan CİHAN</td><td>0 535 578 93 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>180963</td><td>AYVAZHACI</td><td>2322,98</td><td>32</td><td>508</td><td>Hasan NAVRUZ</td><td>0 533 511 19 01</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>42175</td><td>BAH&#199;EBAŞI</td><td>113,29</td><td>15</td><td>1163</td><td>Yaşar PAKSOY</td><td>0 530 519 07 34</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>42176</td><td>BAH&#199;ELİEVLER</td><td>2063,50</td><td>18</td><td>3610</td><td>Hanım TOKER</td><td>0 532 162 24 19</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>181021</td><td>B&#220;Y&#220;KK&#220;NYE</td><td>1256,70</td><td>57</td><td>298</td><td>Mehmet DERE</td><td>0 536 921 26 79</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>42177</td><td>CAMİİCEDİT</td><td>23,70</td><td>12</td><td>2716</td><td>Kamil &#214;ZKAN</td><td>0 536 328 48 13</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>42179</td><td>CUMHURİYET</td><td>71,29</td><td>21</td><td>885</td><td>Seyit BOZ</td><td>0 533 460 05 97</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>181023</td><td>&#199;ADIRYERİ</td><td>1522,05</td><td>58</td><td>72</td><td>Fatma AYBOĞAN</td><td>0 533 044 80 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>181025</td><td>&#199;ATALOLUK</td><td>4140,56</td><td>59</td><td>349</td><td>Gazi KURAL</td><td>0 538 481 99 72</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>180965</td><td>&#199;AYIR&#214;Z&#220;</td><td>5198,09</td><td>33</td><td>617</td><td>Durmuş EROL</td><td>0 536 220 11 57</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>180967</td><td>&#199;AYLICA</td><td>2538,06</td><td>34</td><td>642</td><td>İsmail G&#220;LDEN</td><td>0 537 963 24 50</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>180969</td><td>&#199;OMAKLI</td><td>5287,58</td><td>35</td><td>706</td><td>Hacı KALE</td><td>0 536 742 79 29</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>180971</td><td>&#199;&#214;TEN</td><td>3096,56</td><td>36</td><td>528</td><td>Ahmet &#214;ZDEMİR</td><td>0 535 812 85 01</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>181027</td><td>&#199;UKURYURT</td><td>1942,61</td><td>60</td><td>63</td><td>&#214;mer BALCI</td><td>0 531 244 12 04</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>181029</td><td>DEREBAŞI</td><td>3006,54</td><td>61</td><td>144</td><td>Yal&#231;ın AKBULUT</td><td>0 535 386 50 11</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>181031</td><td>DEREŞİMLİ</td><td>1355,62</td><td>62</td><td>102</td><td>Veli DURMAZ</td><td>0 538 575 40 91</td><td> 647 10 88</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>42178</td><td>DEVELİ CAMİKEBİR</td><td>6,20</td><td>25</td><td>104</td><td>S&#252;leyman &#199;İ&#199;EK</td><td>0 535 501 02 97</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>42180</td><td>E.CAMİİKEBİR</td><td>15,81</td><td>13</td><td>403</td><td>Mustafa Metin KALKANLI</td><td>0 537 018 50 90</td><td>621 22 52</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>180973</td><td>EP&#199;E</td><td>4057,59</td><td>37</td><td>597</td><td>Yusuf TEKİN</td><td>0 536 568 66 87</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>181033</td><td>EŞELİK</td><td>1613,93</td><td>63</td><td>164</td><td>Ali TAN&#199;</td><td>0 534 371 34 52</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>42181</td><td>FATİH</td><td>202,65</td><td>9</td><td>1112</td><td>Adem &#214;NDER</td><td>0 535 558 84 26</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>42182</td><td>FENESEAŞAĞI</td><td>10,60</td><td>8</td><td>370</td><td>Emre SAYILGAN</td><td>0 533 028 45 25</td><td>621 38 02</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>42183</td><td>FENESEYUKARI</td><td>20,23</td><td>7</td><td>1373</td><td>Davut EROL</td><td>0 536 593 38 74</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>180951</td><td>GAZİ</td><td>4058,86</td><td>27</td><td>1001</td><td>Basri A&#199;IKKAN</td><td>0 536 322 43 80</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>180975</td><td>G&#214;MEDİ</td><td>1344,10</td><td>38</td><td>80</td><td>İsmail DEVELİOĞLU</td><td>0 535 289 26 50</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>180977</td><td>G&#220;M&#220;Ş&#214;REN</td><td>5014,02</td><td>39</td><td>506</td><td>İhsan TOYBIYIK</td><td>0 536 348 26 56</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>42184</td><td>G&#220;NEYAŞAĞI</td><td>1482,80</td><td>20</td><td>779</td><td>Tayfur ŞAFAK</td><td>0 533 525 41 78</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>42185</td><td>G&#220;NEYYUKARI</td><td>275,50</td><td>23</td><td>297</td><td>Ali KEL</td><td>0 537 370 60 38</td><td>621 88 76</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>42186</td><td>HARMAN</td><td>178,32</td><td>4</td><td>5004</td><td>Hikmet &#199;ETİN</td><td>0 530 346 73 07</td><td>621 16 47</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>181035</td><td>HAVADAN</td><td>6120,62</td><td>64</td><td>204</td><td>Emre AFŞAR</td><td>0 542 507 49 00</td><td>629 74 76</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>181037</td><td>HOŞ&#199;A</td><td>2397,81</td><td>65</td><td>105</td><td>Zafer &#199;OBAN</td><td>0 537 526 63 23</td><td>627 22 82</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>180979</td><td>H&#220;SEYİNLİ</td><td>3844,06</td><td>40</td><td>267</td><td>Murat &#214;ZDEMİR</td><td>0 537 648 81 14</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>42187</td><td>İBRAHİMAĞA</td><td>42,94</td><td>11</td><td>3367</td><td>Mustafa MEDENİ</td><td>0 543 324 43 52</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>180981</td><td>İNCESU</td><td>3314,91</td><td>41</td><td>731</td><td>Mustafa ALTINTAŞ</td><td>0 537 211 36 92</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>42188</td><td>İZMİRLİ</td><td>4,01</td><td>10</td><td>167</td><td>Muzaffer YILDIZ</td><td>0 536 346 70 83</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>180985</td><td>KABAKLI</td><td>1899,16</td><td>42</td><td>404</td><td>Mustafa BAYKAR</td><td>0 535 486 59 31</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>181039</td><td>KALEK&#214;Y</td><td>5990,14</td><td>66</td><td>169</td><td>Arif YAVUZ</td><td>0 535 234 77 23</td><td> 649 10 40</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>180987</td><td>KARACA&#214;REN</td><td>1803,88</td><td>43</td><td>453</td><td>Bekir KARAKAYA</td><td>0 537 361 56 26</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>181041</td><td>KILI&#199;KAYA</td><td>2735,68</td><td>67</td><td>256</td><td>Erdal AYDOĞDU</td><td>0 538 689 04 16</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>180989</td><td>KIZIK</td><td>2796,10</td><td>44</td><td>400</td><td>Adem K&#214;KŞEN</td><td>0 539 793 98 71</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>42189</td><td>KOP&#199;ULLU</td><td>623,08</td><td>26</td><td>83</td><td>Yavuz KOLAY</td><td>0 532 344 53 77</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>180993</td><td>KOZLUCA</td><td>1821,87</td><td>45</td><td>12</td><td>Adem EROL</td><td>0 534 878 38 11</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>181043</td><td>K&#214;SELER</td><td>4468,71</td><td>68</td><td>548</td><td>Uğur Y&#214;NEL</td><td>0 534 829 64 93</td><td> 644 10 57</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>180995</td><td>KULPAK</td><td>5186,26</td><td>46</td><td>322</td><td>Yusuf &#220;NAL</td><td>0 535 642 42 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>181045</td><td>K&#220;&#199;&#220;KK&#220;NYE</td><td>6230,63</td><td>69</td><td>431</td><td>Durmuş Ali İ&#199;&#214;Z</td><td>0 536 867 69 02</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>42190</td><td>MEHMET AKİF ERSOY</td><td>522,08</td><td>5</td><td>2267</td><td>Ahmet DİKİLİTAŞ</td><td>0 536 867 93 82</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>180997</td><td>MİLLİDERE</td><td>1026,26</td><td>47</td><td>172</td><td>Sinan KO&#199;</td><td>0 538 761 63 12</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>42191</td><td>MUSTAFA ASIM K&#214;KSAL</td><td>6180,59</td><td>2</td><td>3826</td><td>Ahmet TOKLUOĞLU</td><td>0 539 446 97 45</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>180999</td><td>&#214;KS&#220;T</td><td>4116,35</td><td>48</td><td>559</td><td>Adem KAHRAMAN</td><td>0 538 681 49 34</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>42192</td><td>REŞADİYE</td><td>787,76</td><td>17</td><td>2348</td><td>Yusuf &#199;ELİK</td><td>0 538 698 86 99</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>181047</td><td>SARAYCIK</td><td>2036,68</td><td>70</td><td>179</td><td>Adem ERDEN</td><td>0 536 729 86 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>181001</td><td>SARICA</td><td>1733,28</td><td>49</td><td>360</td><td>Bekir ULUSOY</td><td>0 532 350 32 79</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>181049</td><td>SARIKAYA</td><td>2553,36</td><td>71</td><td>378</td><td>Talip SARIKAYA</td><td>0 536 202 17 06</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>181051</td><td>SATI</td><td>1953,28</td><td>72</td><td>130</td><td>Tamer &#214;NDER</td><td>0 533 736 53 59</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>180953</td><td>SİNDELH&#214;Y&#220;K CAMİKEBİR</td><td>3493,86</td><td>28</td><td>1624</td><td>&#214;nder ZOPOĞLU</td><td>0 535 732 54 31</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>184206</td><td>SİNDELH&#214;Y&#220;K FATİH</td><td>8076,58</td><td>77</td><td>1255</td><td>&#214;mer K&#214;Y&#214;N&#220;</td><td>0 543 590 44 14</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>184204</td><td>SİNDELH&#214;Y&#220;K YENİCE</td><td>3869,07</td><td>76</td><td>1287</td><td>Mehmet FARSAK</td><td>0 545 716 61 07</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>181005</td><td>SOYSALLI</td><td>2694,97</td><td>50</td><td>1153</td><td>Hacı İbrahim AKARSU</td><td>0 536 599 89 46</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>181007</td><td>ŞAHMELİK</td><td>6795,57</td><td>51</td><td>678</td><td>Mustafa DEMİREZEN</td><td>0 535 482 54 04</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>42193</td><td>ŞHT.&#220;STĞM.HASAN ŞAHAN</td><td>157,90</td><td>19</td><td>2538</td><td>Muharrem SABAH</td><td>0 533 497 50 84</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>180957</td><td>ŞIHLI</td><td>6937,96</td><td>30</td><td>478</td><td>Uğur SONY&#220;REK</td><td>0 535 388 35 06</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>181019</td><td>TAŞCI BUCAK MERKEZİ</td><td>1343,70</td><td>56</td><td>180</td><td>Barış NOYLAN</td><td>0 535 738 19 12</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>181009</td><td>TOMBAK</td><td>960,92</td><td>52</td><td>216</td><td>Ramazan BODUR</td><td>0 532 674 73 81</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>181053</td><td>YAYLACIK</td><td>5050,10</td><td>73</td><td>311</td><td>Barış YILDIZ</td><td>0 531 988 32 74</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>181011</td><td>YAZIBAŞI</td><td>2308,53</td><td>53</td><td>263</td><td>Mehmet &#220;NSAL</td><td>0 536 721 10 61</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>42194</td><td>YEDEK</td><td>2729,23</td><td>24</td><td>114</td><td>Mehmet OLGUN</td><td>0 543 715 70 45</td><td>621 22 82</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>42195</td><td>YENİ</td><td>60,40</td><td>3</td><td>5406</td><td>Samet &#199;AL</td><td>0 539 400 38 37</td><td>621 54 57</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>181057</td><td>YENİCE</td><td>2650,59</td><td>74</td><td>298</td><td>Erol &#199;ALIŞKAN</td><td>0 532 237 42 17</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>181013</td><td>YENİHAYAT</td><td>3068,62</td><td>54</td><td>107</td><td>Ahmet AYHAN</td><td>0 536 220 40 74</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>181059</td><td>YENİK&#214;Y</td><td>3483,62</td><td>75</td><td>390</td><td>Fatih &#214;ZKAN</td><td>0 536 680 99 32</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>181015</td><td>YEŞİLYURT</td><td>1943,26</td><td>55</td><td>121</td><td>İsmail &#214;ZDEMİR</td><td>0 533 603 13 73</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>42196</td><td>Y&#220;ZEVLER</td><td>67,25</td><td>22</td><td>278</td><td>Yasin S&#220;T</td><td>0 533 028 45 60</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>DEVELİ</td><td>180955</td><td>ZİLE</td><td>2787,26</td><td>29</td><td>390</td><td>Murat &#199;ER&#199;İ</td><td>0 545 276 22 58</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>FELAHİYE</td><td>181067</td><td>ACIRLI</td><td>3128,88</td><td>7</td><td>180</td><td>İMALETTİN ALTINTAŞ</td><td>0535 302 69 48</td><td>799 11 85</td>
+		</tr><tr>
+			<td>FELAHİYE</td><td>181069</td><td>ALPARSLAN</td><td>2781,59</td><td>8</td><td>126</td><td>FEVKİ A&#199;IKG&#214;Z</td><td>0536 769 13 64</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>FELAHİYE</td><td>42210</td><td>BEYLER</td><td>762,65</td><td>1</td><td>228</td><td>TUGAY Y&#220;KSEL</td><td>0534 891 77 17</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>FELAHİYE</td><td>184216</td><td>B&#220;Y&#220;KTORAMAN H&#220;RRİYET</td><td>1297,19</td><td>17</td><td>477</td><td>ERDİN&#199; KUMAŞ</td><td>0553 123 41 58</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>FELAHİYE</td><td>184214</td><td>B&#220;Y&#220;KTORAMAN İSTİKLAL</td><td>6092,76</td><td>16</td><td>725</td><td>TUNCAY MERMER</td><td>0539 956 60 14</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>FELAHİYE</td><td>42211</td><td>CUMHURİYET</td><td>5932,16</td><td>2</td><td>521</td><td>H&#220;SEYİN &#214;ZT&#220;RK</td><td>0537 703 77 52</td><td>791 26 68</td>
+		</tr><tr>
+			<td>FELAHİYE</td><td>181071</td><td>DARILI</td><td>1917,73</td><td>9</td><td>124</td><td>MEHMET KARADAVUT</td><td>0539 817 03 99</td><td>793 61 36</td>
+		</tr><tr>
+			<td>FELAHİYE</td><td>181073</td><td>İSABEY</td><td>3069,90</td><td>10</td><td>349</td><td>AHMET CANKURTARAN</td><td>0538 504 75 16</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>FELAHİYE</td><td>42212</td><td>KALE</td><td>887,74</td><td>3</td><td>433</td><td>G&#214;KHAN &#214;ZOĞLU</td><td>0544 636 49 34</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>FELAHİYE</td><td>181075</td><td>KARAŞEYH</td><td>1843,76</td><td>11</td><td>175</td><td>&#214;ZKAN AKSU</td><td>0553 091 06 08</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>FELAHİYE</td><td>184218</td><td>KAYAPINAR CUMHURİYET</td><td>733,74</td><td>18</td><td>424</td><td>HASAN BOĞUTEKİN</td><td>0536 502 03 77</td><td>797 34 36</td>
+		</tr><tr>
+			<td>FELAHİYE</td><td>184220</td><td>KAYAPINAR FATİH SULTAN MEHMET</td><td>2696,34</td><td>19</td><td>766</td><td>MUSTAFA CANLI</td><td>0537 876 73 12</td><td>797 32 94</td>
+		</tr><tr>
+			<td>FELAHİYE</td><td>181077</td><td>KEPİ&#199;</td><td>1902,25</td><td>12</td><td>202</td><td>CEMİL ERTEM</td><td>0538 291 45 44</td><td>793 60 64</td>
+		</tr><tr>
+			<td>FELAHİYE</td><td>181079</td><td>KURUH&#220;Y&#220;K</td><td>3302,36</td><td>13</td><td>255</td><td>YUSUF ŞAHİN</td><td>0543 246 72 07</td><td>796 40 60 </td>
+		</tr><tr>
+			<td>FELAHİYE</td><td>181081</td><td>MENTEŞE</td><td>3040,12</td><td>14</td><td>63</td><td>SİNAN SAĞIR</td><td>0545 838 00 66</td><td>7991055</td>
+		</tr><tr>
+			<td>FELAHİYE</td><td>181085</td><td>SİLAHTAR</td><td>2997,27</td><td>15</td><td>158</td><td>AHMET EKİNCİ</td><td>0539 763 94 38</td><td>798 80 82</td>
+		</tr><tr>
+			<td>FELAHİYE</td><td>42213</td><td>YENİ</td><td>1877,26</td><td>4</td><td>323</td><td>ADEM KUZUG&#220;DEN</td><td>0536 958 21 19</td><td>791 26 27</td>
+		</tr><tr>
+			<td>HACILAR</td><td>42219</td><td>AKDAM</td><td>189,27</td><td>1</td><td>1028</td><td>H&#252;seyin TURAN</td><td>0539 222 00 77</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>HACILAR</td><td>42220</td><td>AKYAZI</td><td>386,08</td><td>2</td><td>1659</td><td>Selman G&#214;K&#199;E</td><td>0532 012 07 00</td><td>442 19 51</td>
+		</tr><tr>
+			<td>HACILAR</td><td>42221</td><td>AŞAĞI</td><td>1223,70</td><td>3</td><td>1923</td><td>Yavuz MUTLU</td><td>0532 707 27 19</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>HACILAR</td><td>42222</td><td>BEĞENDİK</td><td>3236,79</td><td>4</td><td>1928</td><td>Orhan G&#220;NEK</td><td>0536 466 79 50</td><td>446 75 70</td>
+		</tr><tr>
+			<td>HACILAR</td><td>42223</td><td>ERCİYES</td><td>243,25</td><td>5</td><td>1926</td><td>Z&#252;beyde ERKAN</td><td>0542 541 59 38</td><td>442 30 30</td>
+		</tr><tr>
+			<td>HACILAR</td><td>42228</td><td>H&#220;RMETCİ</td><td>831,82</td><td>11</td><td>164</td><td>İbrahim DEMİR</td><td>0536 606 50 92</td><td>445 00 97</td>
+		</tr><tr>
+			<td>HACILAR</td><td>181087</td><td>KARPUZSEKİSİ</td><td>3403,12</td><td>126</td><td>828</td><td>Nihat KO&#199;AK</td><td>0532 408 21 93</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>HACILAR</td><td>42224</td><td>ORTA</td><td>5</td><td>7</td><td>161</td><td>Ali Osman BASMA</td><td>0552 890 38 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>HACILAR</td><td>181091</td><td>SAKAR&#199;İFTLİĞİ</td><td>2164,85</td><td>127</td><td>363</td><td>Mustaf Kemal MUSLU</td><td>0535 636 57 41</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>HACILAR</td><td>42225</td><td>YEDİAĞA&#199;</td><td>1942,38</td><td>8</td><td>639</td><td>Yusuf YILMAZ</td><td>0537 447 24 21</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>HACILAR</td><td>42226</td><td>YENİ</td><td>70,89</td><td>9</td><td>1570</td><td>Ramazan CİNGİL</td><td>0535 502 64 44</td><td>442 14 53</td>
+		</tr><tr>
+			<td>HACILAR</td><td>42227</td><td>YUKARI</td><td>2753,19</td><td>10</td><td>1512</td><td>&#214;mer G&#220;NEK</td><td>0554 384 00 27</td><td>442 47 18</td>
+		</tr><tr>
+			<td>İNCESU</td><td>42231</td><td>BAH&#199;ELİEVLER</td><td>6182,22</td><td>1</td><td>2745</td><td>Mehmet KELEŞ</td><td>0 536 286 8304</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>İNCESU</td><td>106436</td><td>BAH&#199;ESARAY</td><td>932,09</td><td>16</td><td>1857</td><td>Mustafa D&#214;NMEZ</td><td>0 539 297 8830</td><td>691 34 92</td>
+		</tr><tr>
+			<td>İNCESU</td><td>42232</td><td>BULGURCU</td><td>11,61</td><td>2</td><td>245</td><td>Sahip YILDIRIM</td><td>0 538 633 4628</td><td>691 25 40</td>
+		</tr><tr>
+			<td>İNCESU</td><td>42244</td><td>&#199;ARDAKLI</td><td>1850,30</td><td>30</td><td>365</td><td>BEKİR AYDOĞAR</td><td>0 537 407 9719</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>İNCESU</td><td>42243</td><td>DOKUZPINAR</td><td>60,04</td><td>31</td><td>124</td><td>Fatih &#199;ELEBİ</td><td>0 506  835 8450</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>İNCESU</td><td>42233</td><td>FIRIN&#214;N&#220;</td><td>2900,64</td><td>3</td><td>1487</td><td>Umut KARAMUK</td><td>0 553 474 9683</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>İNCESU</td><td>42245</td><td>GARİP&#199;E</td><td>3805,93</td><td>13</td><td>812</td><td>Mehmet &#199;AKIR</td><td>0536 524 81 56</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>İNCESU</td><td>42234</td><td>G&#214;NENKENT</td><td>55,05</td><td>4</td><td>1556</td><td>HASAN G&#214;Z&#220;AK</td><td>0 531 746 7670</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>İNCESU</td><td>181093</td><td>HAMURCU</td><td>3590,07</td><td>18</td><td>793</td><td>ALİ DİN&#199;ER</td><td>0 532 662 7219</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>İNCESU</td><td>181095</td><td>KARAH&#220;Y&#220;K</td><td>2356,70</td><td>19</td><td>166</td><td>Mustafa G&#220;RSOY</td><td>0 552 922 0029</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>İNCESU</td><td>42236</td><td>KARAKOYUNLU</td><td>2312,58</td><td>5</td><td>2010</td><td>KEMAL KAR</td><td>0 552 237 5479</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>İNCESU</td><td>42237</td><td>KARAMUSTAFAPAŞA</td><td>577,67</td><td>6</td><td>2275</td><td>Bekir DİVAR</td><td>0 532 734 9832</td><td>691 32 47</td>
+		</tr><tr>
+			<td>İNCESU</td><td>42247</td><td>KIZIL&#214;REN AŞAĞI</td><td>6915,75</td><td>28</td><td>992</td><td>İDRİS BUĞDAYCI</td><td>0 537 833 3888</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>İNCESU</td><td>42251</td><td>KIZIL&#214;REN &#214;TEBATAN</td><td>1269,19</td><td>11</td><td>534</td><td>Osman G&#220;LER</td><td>0 536 612 6164</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>İNCESU</td><td>42252</td><td>KIZIL&#214;REN TABAKLI</td><td>2104,34</td><td>12</td><td>926</td><td>MURAT ALTING&#214;Z</td><td>0 536 290 9248</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>İNCESU</td><td>181097</td><td>K&#220;LL&#220;</td><td>2056,74</td><td>20</td><td>423</td><td>Mehmet İLİK</td><td>0 537 276 2584</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>İNCESU</td><td>42242</td><td>&#214;RENŞEHİR</td><td>1243,34</td><td>14</td><td>2184</td><td>Sebahattin KIZIL</td><td>0 536 015 0838</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>İNCESU</td><td>140547</td><td>SARAYCIK</td><td>2056,86</td><td>17</td><td>2394</td><td>Şahismail KULAKSIZ</td><td>0 544 246 0676</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>İNCESU</td><td>42241</td><td>SARIK&#220;RKL&#220;</td><td>1404,42</td><td>15</td><td>221</td><td>Hacı Ahmet BAKTUR</td><td>0 538 524 3816</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>İNCESU</td><td>42238</td><td>SEMERKENT</td><td>9001,20</td><td>7</td><td>410</td><td>Mustafa KARA&#199;AVUŞ</td><td>0 530 561 9570</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>İNCESU</td><td>181099</td><td>SUBAŞI</td><td>6449,63</td><td>21</td><td>423</td><td>Nazmi AKS&#220;T</td><td>0 535 511 8721</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>İNCESU</td><td>42253</td><td>S&#220;KS&#220;N CUMHURİYET</td><td>1490,61</td><td>25</td><td>500</td><td>MEHMET UNUTKAN</td><td>0 536 823 5035</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>İNCESU</td><td>42254</td><td>S&#220;KS&#220;N H&#220;RRİYET</td><td>1557,43</td><td>26</td><td>209</td><td>AYHAN AYDIN</td><td>0 536 300 4631</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>İNCESU</td><td>42255</td><td>S&#220;KS&#220;N ZAFER</td><td>2512,03</td><td>27</td><td>1798</td><td>Cengiz AYDIN</td><td>0 533 392 1039</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>İNCESU</td><td>181101</td><td>ŞEYHŞABAN</td><td>10706,90</td><td>22</td><td>286</td><td>ŞERAFETTİN AKDURAN</td><td>0 530 450 2038</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>İNCESU</td><td>181103</td><td>TAHİRİNLİ</td><td>3393,31</td><td>23</td><td>673</td><td>Mehmet &#199;AVDAR</td><td>0 539 305 5038</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>İNCESU</td><td>181105</td><td>&#220;&#199;KUYU</td><td>3716,84</td><td>24</td><td>407</td><td>Hasan &#214;Z</td><td>0 507 119 6486</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>İNCESU</td><td>42235</td><td>VALİ İHSAN ARAS</td><td>44,78</td><td>8</td><td>2484</td><td>B&#252;lent &#220;NER</td><td>0 554 772 1829</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>İNCESU</td><td>42239</td><td>YARIM</td><td>8,38</td><td>9</td><td>262</td><td>Kadir ARISAL</td><td>0 553 460 0628</td><td>691 37 24</td>
+		</tr><tr>
+			<td>İNCESU</td><td>42240</td><td>YENİ CAMİİ</td><td>242,85</td><td>10</td><td>219</td><td>Memiş SOLAK</td><td>0 537 557 5157</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>42004</td><td>AHİ EVRAN</td><td>126,71</td><td>50</td><td>7215</td><td>Nejla G&#214;Ğ&#199;AM</td><td>0 532 470 46 53</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>42001</td><td>AKCATEPE</td><td>1047,73</td><td>54</td><td>321</td><td>Y&#220;KSEL &#199;OBAN</td><td>0 536 255 15 28</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>42022</td><td>AKİN</td><td>2303,53</td><td>92</td><td>466</td><td>ERCAN TURHAL</td><td>0 507 260 30 05</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41946</td><td>ALSANCAK</td><td>98,10</td><td>41</td><td>4737</td><td>&#199;eşmi Naz TAY</td><td>0 537 855 61 80</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>180709</td><td>AMARAT</td><td>2854,43</td><td>60</td><td>267</td><td>Taysan BAKAR</td><td>0 538 236 66 76</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>184210</td><td>ARGINCIK</td><td>148,75</td><td>117</td><td>8925</td><td>Hacı &#214;mer ELVAN</td><td>0 535 610 27 67</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41947</td><td>BARBAROS</td><td>175,16</td><td>9</td><td>17187</td><td>Levent KARAKAYA</td><td>0 505 641 55 36</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>180747</td><td>BARSAMA</td><td>1884,06</td><td>71</td><td>331</td><td>Ali T&#220;RK</td><td>0 530 541 51 60</td><td>291 53 03</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>180777</td><td>BAYRAMHACI</td><td>5570,09</td><td>80</td><td>238</td><td>HALİL KURUKAFA</td><td>0 532 453 62 45</td><td>394 70 36</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>42003</td><td>BEYAZŞEHİR</td><td>151,77</td><td>52</td><td>18517</td><td>Berna KARAKO&#199;</td><td>0 539 790 75 09</td><td>251 28 00</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>180779</td><td>BEYDEĞİRMENİ</td><td>1752,02</td><td>81</td><td>100</td><td>Aziz SİNOPLUOĞLU</td><td>0 537 206 30 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>180725</td><td>BOĞAZK&#214;PR&#220;</td><td>2346,36</td><td>64</td><td>101</td><td>Abdullah CİVİLO</td><td>0 539 335 79 82</td><td>311 35 39</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>42021</td><td>BOYACI</td><td>2785,88</td><td>95</td><td>263</td><td>Ahmet BERK</td><td>0 506 742 26 50</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41949</td><td>BOZTEPE</td><td>445,74</td><td>59</td><td>2267</td><td>Bilal ERDEM</td><td>0 531 011 99 34</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41999</td><td>BUĞDAYLI</td><td>876,68</td><td>57</td><td>2854</td><td>İCABİ YEŞİLYURT</td><td>0 537 628 35 94</td><td>283 10 93</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>42006</td><td>CAMİKEBİR</td><td>378,12</td><td>107</td><td>7512</td><td>HAKAN AY</td><td>0 507 015 19 81</td><td>351 33 44</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41953</td><td>CIRGALAN</td><td>1573,55</td><td>53</td><td>3679</td><td>Mustafa SEVER</td><td>0 554 562 05 25</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>180731</td><td>&#199;EVRİL</td><td>2871,77</td><td>66</td><td>515</td><td>Hamza G&#214;LTAŞ</td><td>0 537 841 87 27</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>42016</td><td>DADAĞI</td><td>2794,91</td><td>105</td><td>226</td><td>AHMET ARSLANTAŞ</td><td>0 532 798 17 26</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>180749</td><td>DORUKLU</td><td>1872,67</td><td>72</td><td>236</td><td>MEHMET ANDA&#199;</td><td>0 535 249 87 05</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>180715</td><td>D&#220;VER</td><td>5011,67</td><td>62</td><td>530</td><td>Osman AKKAYA</td><td>0 533 097 55 87</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>42018</td><td>EBİ&#199;</td><td>4144,83</td><td>93</td><td>936</td><td>AKİF DENİZ</td><td>0 536 962 87 62</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>42000</td><td>ELAG&#214;Z</td><td>704,35</td><td>58</td><td>821</td><td>Sinamettin ŞİMŞEK</td><td>0 535 984 61 22</td><td>3882108</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>180781</td><td>ELMALI</td><td>2762,82</td><td>82</td><td>182</td><td>Mevl&#252;t SOYSAL</td><td>0 530 345 65 36</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>180733</td><td>EMMİLER</td><td>3123,63</td><td>67</td><td>472</td><td>AHMET TOSUN</td><td>0 532 063 53 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41954</td><td>ERCİYESEVLER</td><td>78,28</td><td>33</td><td>15359</td><td>Ali BOZKURT</td><td>0 538 393 42 33</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>184212</td><td>ERKİLET</td><td>5451,33</td><td>118</td><td>590</td><td>Sadettin BİLGİN</td><td>0 535 431 65 08</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>42007</td><td>ERTUĞRUL GAZİ</td><td>1360,89</td><td>106</td><td>21160</td><td>Mehmet &#214;Z</td><td>0 535 200 37 06</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>180783</td><td>ESKİ&#214;MERLER</td><td>4274,32</td><td>83</td><td>279</td><td>Ş&#252;kr&#252; T&#220;RKASLAN</td><td>0 535 576 06 37</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>180751</td><td>EYİM</td><td>2272,41</td><td>73</td><td>270</td><td>Arif UZMAN</td><td>0 535 287 99 23</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41957</td><td>FEVZİ &#199;AKMAK</td><td>98,39</td><td>31</td><td>16582</td><td>Mehmet &#220;NL&#220;</td><td>0 537 414 93 47</td><td>233 63 87</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41958</td><td>FEVZİOĞLU</td><td>686,66</td><td>46</td><td>2297</td><td>EKREM KARADAĞLI</td><td>0 546 900 99 49</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>42008</td><td>GENERAL EMİR</td><td>808,74</td><td>109</td><td>7483</td><td>Mustafa &#199;AĞLAR</td><td>0 539 610 09 01</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41960</td><td>GEVHER NESİBE</td><td>58,98</td><td>27</td><td>3694</td><td>HAYATİ ODUNCU</td><td>0 545 558 04 08</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>42031</td><td>G&#214;ME&#199;</td><td>1964,17</td><td>98</td><td>473</td><td>HACI ALİ &#214;Z</td><td>0 533 721 27 63</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>42025</td><td>G&#220;NEŞLİ</td><td>2636,44</td><td>97</td><td>707</td><td>Mehmet G&#214;ZETEN</td><td>0 536 526 47 79</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>42002</td><td>HASAN ARPA</td><td>799,97</td><td>55</td><td>264</td><td>Ahmet KORAMAZ</td><td>0 537 777 35 64</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>180753</td><td>HASANCI</td><td>1615,38</td><td>74</td><td>205</td><td>Kemalattin DANACI</td><td>0 533 729 62 63</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>180735</td><td>HIRKAK&#214;Y</td><td>8344,16</td><td>68</td><td>629</td><td>Metin TURAN</td><td>0 537 298 30 72</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>180711</td><td>HİMMETDEDE</td><td>4640,30</td><td>61</td><td>234</td><td>Y&#220;KSEL AKDAŞ</td><td>0 531 359 60 56</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41963</td><td>HOCA AHMET YESEVİ</td><td>116,68</td><td>44</td><td>10044</td><td>ENGİN AYG&#220;L</td><td>0 535 414 68 49</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>180759</td><td>H&#214;BEK</td><td>2727,44</td><td>75</td><td>146</td><td>Hasan &#214;ZK&#214;K</td><td>0 537 511 05 32</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>180787</td><td>KALKANCIK</td><td>2661,88</td><td>84</td><td>254</td><td>Hacı SAYGI</td><td>0 530 130 19 65</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>42030</td><td>KARAH&#214;Y&#220;K</td><td>680,20</td><td>101</td><td>31</td><td>Yasin YILMAZ</td><td>0 539 437 31 71</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>180789</td><td>KARAKİMSE</td><td>4137,11</td><td>85</td><td>356</td><td>Feramuz &#199;İLKOPARAN</td><td>0 530 696 63 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>180793</td><td>KAŞK&#214;Y</td><td>3207,46</td><td>86</td><td>415</td><td>Habip KILI&#199;</td><td>0 533 617 76 89</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41955</td><td>KAYABAŞI</td><td>253,27</td><td>36</td><td>6658</td><td>Fehmi &#199;EVİK</td><td>0 535 258 21 71</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>42015</td><td>KEMER</td><td>2518,20</td><td>110</td><td>305</td><td>Mehmet Ali AYDIN</td><td>0 506 662 50 80</td><td>383 01 18</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>42029</td><td>KIZIK</td><td>3072,62</td><td>102</td><td>424</td><td>HACIALİ DEMİR</td><td>0 507 472 32 62</td><td>223 70 50</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>180763</td><td>KUŞCAĞIZ</td><td>1300,77</td><td>76</td><td>133</td><td>NURULLAH USLU</td><td>0 537 460 09 70</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>42020</td><td>KUŞ&#199;U</td><td>2200,64</td><td>96</td><td>505</td><td>Cengiz TUNGA</td><td>0 535 968 61 92</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>42023</td><td>MAHZEMİN</td><td>5678,09</td><td>91</td><td>1710</td><td>ALATTİN BORAN</td><td>0 536 256 62 82</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41967</td><td>MEVLANA</td><td>98,89</td><td>21</td><td>10509</td><td>&#220;mit YENİAY</td><td>0 535 387 56 36</td><td>337 21 50</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41968</td><td>MİMARSİNAN</td><td>119,69</td><td>32</td><td>18920</td><td>Muammer SUNA</td><td>0 536 704 70 64</td><td>234 14 00</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41969</td><td>MİTHATPAŞA</td><td>390,73</td><td>13</td><td>16192</td><td>MELİH T&#220;RKMEN</td><td>0 533 035 55 30</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>180737</td><td>MOLLAHACI</td><td>2502,63</td><td>69</td><td>218</td><td>KADİR ORHAN</td><td>0 505 692 31 05</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>180727</td><td>MOLU</td><td>5091,88</td><td>65</td><td>501</td><td>ZEKİ AKSERVİ</td><td>0 532 136 06 78</td><td>3872101</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>180767</td><td>OBRUK</td><td>1992,19</td><td>77</td><td>197</td><td>Sezgin KARACA</td><td>0 537 931 72 45</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41970</td><td>ORU&#199;REİS</td><td>336,12</td><td>14</td><td>2819</td><td>H&#252;seyin EREN</td><td>0 536 281 39 37</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>42017</td><td>OSMANGAZİ</td><td>685,48</td><td>111</td><td>23899</td><td>Salim T&#220;RKASLAN</td><td>0 535 387 34 05</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41998</td><td>OYMAAĞA&#199;</td><td>1432,14</td><td>1</td><td>595</td><td>Adem BAYRAM</td><td>0 536 343 33 20</td><td>3872151</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41973</td><td>SAHABİYE</td><td>111,42</td><td>29</td><td>14790</td><td>Alim GER&#199;EL</td><td>0 544 231 73 03</td><td>232 20 37</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>42028</td><td>SALUR</td><td>984,99</td><td>104</td><td>188</td><td>L&#252;tfi &#214;ZDEMİR</td><td>0 532 671 16 11</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41974</td><td>SANAYİ</td><td>164,46</td><td>24</td><td>1091</td><td>Ahmet Bekir CULFACI</td><td>0 506 179 80 49</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41975</td><td>SANCAKTEPE</td><td>236,95</td><td>15</td><td>8537</td><td>H&#252;seyin AYDIN</td><td>0 546 715 57 59</td><td>351 11 45</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41976</td><td>SARAY BOSNA</td><td>173,19</td><td>45</td><td>1512</td><td>Osman &#199;AKMAK</td><td>0 536 748 29 13</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>180771</td><td>SARAYCIK</td><td>1912,39</td><td>78</td><td>449</td><td>&#214;mer CEVİZ</td><td>0 531 215 78 19</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41978</td><td>SEYRANİ</td><td>50,85</td><td>19</td><td>4454</td><td>G&#252;lten &#214;ZDEMİR BURUL</td><td>0 543 550 73 77</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41988</td><td>S&#220;MER YENİ</td><td>139,91</td><td>20</td><td>13498</td><td>KADİR SAĞIROĞLU</td><td>0 535 840 04 15</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41980</td><td>ŞEKER</td><td>1089,77</td><td>2</td><td>7891</td><td>Mehmet Ali G&#214;K&#199;E</td><td>0 530 410 46 72</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41982</td><td>TALATPAŞA</td><td>284,71</td><td>48</td><td>1663</td><td>MANSUR TAŞLINEHİR</td><td>0 534 691 16 23</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>180741</td><td>TAŞHAN</td><td>2208,57</td><td>70</td><td>323</td><td>Y&#252;ksel DENİZ</td><td>0 537 865 79 29</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41984</td><td>TURGUT REİS</td><td>98,17</td><td>10</td><td>14196</td><td>FİLİZ TEMEL</td><td>0 552 709 22 38</td><td>338 91 30</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41985</td><td>UĞUREVLER</td><td>205,72</td><td>34</td><td>12394</td><td>&#220;NAL KARAHAN&#199;ER</td><td>0 532 698 14 40</td><td>240 06 01</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>42014</td><td>VATAN</td><td>1318,62</td><td>113</td><td>182</td><td>Mehmet ARSLAN</td><td>0 537 332 46 21</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>180774</td><td>YAKUT</td><td>180,04</td><td>89</td><td>15879</td><td>İsmail KILI&#199;</td><td>0 553 065 40 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41987</td><td>YAVUZ SELİM</td><td>89,46</td><td>49</td><td>3213</td><td>Kazım &#214;NER</td><td>0 535 709 13 83</td><td>2410495</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41997</td><td>YAZIR</td><td>1064,77</td><td>56</td><td>515</td><td>Mehmet KILIN&#199;</td><td>0 532 512 87 63</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>180717</td><td>YEMLİHA</td><td>9094,22</td><td>63</td><td>4372</td><td>MEHMET ADANALI</td><td>0 532 164 96 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41989</td><td>YENİDOĞAN</td><td>270,62</td><td>3</td><td>11441</td><td>CUMA YAĞIZ</td><td>0 536 596 71 44</td><td>331 63 00</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41991</td><td>YENİŞEHİR</td><td>94,56</td><td>11</td><td>10781</td><td>Funda Sezgin AKDEMİR</td><td>0 554 544 26 76</td><td>338 21 08</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41992</td><td>YEŞİL</td><td>773,10</td><td>16</td><td>4819</td><td>Fatih TELLİOĞLU</td><td>0 546 466 43 43</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>180797</td><td>YUKARIHASİNLİ</td><td>2527,69</td><td>88</td><td>144</td><td>İrfan YİĞİT</td><td>0 530 109 87 15</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41994</td><td>YUNUS EMRE</td><td>206,51</td><td>6</td><td>17940</td><td>Y&#252;cel TOLGA</td><td>0 536 687 55 05</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>180795</td><td>YUVALI</td><td>7780,60</td><td>87</td><td>400</td><td>Veli ALTIN</td><td>0 533 515 42 56</td><td>393 81 77</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>180773</td><td>Y&#220;REĞİL</td><td>1496,96</td><td>79</td><td>377</td><td>HACI MUSTAFA &#199;AM</td><td>0 531 372 59 83</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41995</td><td>ZİYAG&#214;KALP</td><td>102,68</td><td>4</td><td>14326</td><td>HASAN H&#220;SEYİN AŞIK</td><td>0 534 362 38 97</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>KOCASİNAN</td><td>41996</td><td>Z&#220;MR&#220;T</td><td>218,32</td><td>43</td><td>12142</td><td>S&#252;leyman BOYRAZ</td><td>0 536 475 67 68</td><td>338 93 18</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>180805</td><td>AĞIRNAS</td><td>5760,37</td><td>101</td><td>2633</td><td>CEM G&#220;VEN</td><td>0507 516 66 88</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42042</td><td>ALPASLAN</td><td>154,02</td><td>46</td><td>21860</td><td>FİLİZ EĞİLMEZ</td><td>0539 437 66 99</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42043</td><td>ALTINOLUK</td><td>440,90</td><td>13</td><td>13934</td><td>HAYRİYE &#199;EVRİM</td><td>0530 385 29 49</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42044</td><td>ANAFARTALAR</td><td>43,90</td><td>6</td><td>7323</td><td>TURAN AKDENİZ</td><td>0 544 817 18 59</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42045</td><td>ANBAR</td><td>2871,96</td><td>1</td><td>4419</td><td>MEHMET ŞİMŞEK</td><td>0536 407 87 83</td><td>327 27 11</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42046</td><td>AYDINLIKEVLER</td><td>59,20</td><td>23</td><td>9524</td><td>MUSTAFA UYSAL</td><td>0533 553 07 48</td><td>336 12 22</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42114</td><td>BAĞPINAR</td><td>1014,86</td><td>72</td><td>290</td><td>&#214;MER NALBANT</td><td>0536 748 02 95</td><td>297 51 22</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42100</td><td>BAH&#199;ELİEVLER</td><td>529,54</td><td>68</td><td>23012</td><td>RUKİYE K&#214;SE</td><td>0552 360 88 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42047</td><td>BATTALGAZİ</td><td>491</td><td>34</td><td>21643</td><td>ALİ ŞAHİN</td><td>0536 818 78 68</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42093</td><td>BECEN</td><td>872,83</td><td>37</td><td>2203</td><td>KURBAN KARADUMAN</td><td>0535 782 75 38</td><td>242 16 75</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42150</td><td>B&#220;Y&#220;K B&#220;R&#220;NG&#220;Z</td><td>5708,16</td><td>57</td><td>487</td><td>ALİ &#199;UHADAR</td><td>0541 556 32 28</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42050</td><td>CUMHURİYET</td><td>30,31</td><td>29</td><td>332</td><td>ZAFER İNCET&#220;RKMEN</td><td>0532 468 10 30</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42052</td><td>DANİŞMENTGAZİ</td><td>91,12</td><td>16</td><td>11089</td><td>TUNAY KARACA</td><td>0535 366 62 75</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>98722</td><td>DEMOKRASİ</td><td>452,87</td><td>70</td><td>29790</td><td>HATUN KEKE&#199;</td><td>0506 134 41 23</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42053</td><td>EĞRİBUCAK</td><td>1637,95</td><td>15</td><td>2994</td><td>AHMET MERCİMEK</td><td>0532 683 37 61</td><td>343 02 80</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42054</td><td>ERENK&#214;Y</td><td>1834,58</td><td>38</td><td>12816</td><td>NEVİN KAFALI</td><td>0543 575 9092</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42055</td><td>ESENTEPE</td><td>405,78</td><td>11</td><td>18701</td><td>NECDET TOSUN</td><td>0530 621 60 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42056</td><td>ESENYURT</td><td>243,16</td><td>36</td><td>21375</td><td>HAMDİ M&#220;JDEALAN</td><td>0536 732 28 25</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42102</td><td>FATİH</td><td>437,93</td><td>73</td><td>5187</td><td>MUSTAFA MISIR</td><td>0533 652 57 13</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42057</td><td>GERMİR</td><td>605,30</td><td>51</td><td>10929</td><td>ALİ KAPISIZ</td><td>0533 519 66 10</td><td>224 14 38</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42106</td><td>GESİ</td><td>1278,44</td><td>74</td><td>2080</td><td>MEHMET DİLEK</td><td>0532 596 65 93</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42108</td><td>GESİ FATİH</td><td>358,78</td><td>78</td><td>32056</td><td>ZEKİ KALA</td><td>0530 922 30 93</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42088</td><td>G&#214;KKENT</td><td>237,18</td><td>52</td><td>6829</td><td>AHMET BAHADIR</td><td>0535 954 00 32</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42058</td><td>G&#220;LTEPE</td><td>91,64</td><td>44</td><td>10603</td><td>SADETTİN BAYRAKTAR</td><td>0530 207 79 13</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42059</td><td>G&#220;L&#220;K</td><td>61,68</td><td>27</td><td>7912</td><td>ZEYNEP AKYURT</td><td>0544 223 53 12</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42119</td><td>G&#220;RPINAR</td><td>2502,54</td><td>67</td><td>925</td><td>MUSTAFA G&#220;L</td><td>0537 515 58 68</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42113</td><td>G&#220;ZELK&#214;Y</td><td>853,84</td><td>80</td><td>236</td><td>M&#220;MTAZ DURMUŞ</td><td>0533 643 74 03</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>184458</td><td>HİSARCIK</td><td>7285</td><td>103</td><td>4746</td><td>Ş&#220;KR&#220; YILDIZDOĞAN</td><td>0536 308 43 00</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42081</td><td>HUNAT</td><td>83,48</td><td>40</td><td>3107</td><td>G&#220;LŞEN KARAHASAN</td><td>0536 664 07 20</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42060</td><td>H&#220;RRİYET</td><td>86,42</td><td>22</td><td>13913</td><td>MEHMET NAMELİ</td><td>0536 769 13 83</td><td>320 76 96</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42107</td><td>İLDEM CUMHURİYET</td><td>108,23</td><td>76</td><td>23348</td><td>EMİNE KURHAN</td><td>0506 769 83 29</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42112</td><td>KAYABAĞ</td><td>2667,10</td><td>81</td><td>463</td><td>SAMİ DURMUŞ</td><td>0532 172 31 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42062</td><td>KAZIMKARABEKİR</td><td>479,53</td><td>12</td><td>12913</td><td>TEKİN D&#214;NMEZ</td><td>0532 602 58 21</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42064</td><td>KEYKUBAT</td><td>117,21</td><td>9</td><td>17277</td><td>MURAT K&#220;LAHCI</td><td>0507 501 75 07</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42065</td><td>KILI&#199;ASLAN</td><td>43,50</td><td>43</td><td>8240</td><td>ABDULLAH YİĞİT</td><td>0530 780 80 61</td><td>223 00 14</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42098</td><td>KIRANARDI</td><td>2812</td><td>58</td><td>3196</td><td>TURAN KARA</td><td>0552 559 38 37</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42067</td><td>KOCATEPE</td><td>109,70</td><td>4</td><td>10297</td><td>H&#220;SN&#220; DEMİRTAŞ</td><td>0506 741 28 29</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42068</td><td>K&#214;ŞK</td><td>481,89</td><td>45</td><td>23510</td><td>DİLEK &#220;ST&#220;NDAĞ</td><td>0530 263 11 77</td><td>236 31 77</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42122</td><td>K&#220;&#199;&#220;K B&#220;R&#220;NG&#220;Z</td><td>1523,67</td><td>62</td><td>366</td><td>HACI B&#214;L&#220;K</td><td>0506 547 23 39</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42103</td><td>MİMARSİNAN</td><td>3056,67</td><td>75</td><td>4222</td><td>SAFFET MERSİN</td><td>0546 271 18 48</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42092</td><td>OSMAN KAVUNCU</td><td>197,67</td><td>10</td><td>9089</td><td>SERKAN SEYİTOĞLU</td><td>0532 491 69 67</td><td>331 66 88</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42073</td><td>OSMANLI</td><td>107,98</td><td>17</td><td>16379</td><td>BEYTULLAH &#220;REGEN</td><td>0535 483 03 53</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42074</td><td>SAKARYA</td><td>1246,81</td><td>8</td><td>9547</td><td>G&#214;KHAN KO&#199;</td><td>0505 369 39 84</td><td>326 76 66</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>180819</td><td>SARIMSAKLI</td><td>870,20</td><td>102</td><td>291</td><td>CAN &#214;CAL</td><td>0544 887 31 25</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42075</td><td>SEL&#199;UKLU</td><td>134,14</td><td>18</td><td>20018</td><td>HATİCE BAĞIRGAN</td><td>0538 449 66 34</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42076</td><td>SELİMİYE</td><td>58,18</td><td>5</td><td>8409</td><td>SEVGİ BOYRAZ</td><td>0542 579 04 09</td><td>327 37 96</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42121</td><td>SUBAŞI</td><td>1875,59</td><td>64</td><td>267</td><td>KADİR U&#199;AK</td><td>0533 140 88 78</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42104</td><td>ŞİRİNTEPE</td><td>206,86</td><td>77</td><td>21124</td><td>AYSEL OKUR</td><td>0505 653 09 84</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42079</td><td>TACETTİNVELİ</td><td>107,70</td><td>32</td><td>5785</td><td>Ş&#220;KRAN YORULMAZ</td><td>0552 072 06 09</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42087</td><td>TAVLUSUN</td><td>1194,51</td><td>53</td><td>5970</td><td>İBRAHİM BAYRAM</td><td>0507 446 74 98</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42080</td><td>TINAZTEPE</td><td>139,80</td><td>7</td><td>11733</td><td>AHMET YURDUG&#220;L</td><td>0507 699 48 05</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42123</td><td>TURAN</td><td>2377,85</td><td>66</td><td>1012</td><td>HASAN SOYKAN</td><td>0538 474 45 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42111</td><td>VEKSE</td><td>517,29</td><td>83</td><td>115</td><td>FATİH AYTEKİN</td><td>0535 823 10 18</td><td>299 27 22</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42083</td><td>YENİK&#214;Y</td><td>164,01</td><td>21</td><td>17166</td><td>ALİ ALAN</td><td>0532 456 57 25</td><td>355 60 08</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42089</td><td>YEŞİLYURT</td><td>2163,47</td><td>54</td><td>14097</td><td>ABDULLAH AVCI</td><td>0536 446 47 91</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42084</td><td>YILDIRIM BEYAZIT</td><td>443,92</td><td>48</td><td>25472</td><td>GONCA KAAN</td><td>0530 284 40 28</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42085</td><td>19 MAYIS</td><td>106,38</td><td>3</td><td>11972</td><td>İSRAFİL BOYAR</td><td>0535 825 21 14</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>MELİKGAZİ</td><td>42086</td><td>30 AĞUSTOS</td><td>65,94</td><td>2</td><td>8007</td><td>TARKAN &#199;OLAK</td><td>0537 888 88 13</td><td>327 12 77</td>
+		</tr><tr>
+			<td>&#214;ZVATAN</td><td>42260</td><td>ALPARSLAN</td><td>4151,25</td><td>2</td><td>518</td><td>Emre KURT</td><td>0542 654 81 70</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>&#214;ZVATAN</td><td>42261</td><td>AŞAĞI BOĞAZİ&#199;İ</td><td>1334,28</td><td>7</td><td>411</td><td>Tuncay DUMAN</td><td>0535 418 95 31</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>&#214;ZVATAN</td><td>42259</td><td>BAH&#199;ELİ EVLER</td><td>1301,89</td><td>5</td><td>190</td><td>Oktay CİRİT</td><td>0533 221 70 63</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>&#214;ZVATAN</td><td>42263</td><td>CUMHURİYET</td><td>529,08</td><td>1</td><td>405</td><td>Kemal BİNG&#214;L</td><td>0539 590 17 91</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>&#214;ZVATAN</td><td>42256</td><td>G&#220;NEY</td><td>491,12</td><td>6</td><td>146</td><td>Tufan DOĞAN</td><td>0544 252 14 01</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>&#214;ZVATAN</td><td>42257</td><td>KALE</td><td>18,83</td><td>4</td><td>363</td><td>Tayfun YILDIRIM</td><td>0533 348 87 39</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>&#214;ZVATAN</td><td>181109</td><td>KAVAKLI</td><td>1899,43</td><td>10</td><td>175</td><td>M&#252;min DEMİR</td><td>0537 572 48 01</td><td>7854187</td>
+		</tr><tr>
+			<td>&#214;ZVATAN</td><td>181111</td><td>KERMELİK</td><td>2989,36</td><td>11</td><td>350</td><td>Adnan PEHLİVAN</td><td>0538 471 07 03</td><td>784 31 31</td>
+		</tr><tr>
+			<td>&#214;ZVATAN</td><td>181107</td><td>K&#220;PELİ</td><td>6123,50</td><td>9</td><td>555</td><td>Murat ERODABAŞI</td><td>0536 227 63 51</td><td>7863133</td>
+		</tr><tr>
+			<td>&#214;ZVATAN</td><td>181113</td><td>TAŞLIK</td><td>3099,94</td><td>12</td><td>141</td><td>S&#252;leyman PADEM</td><td>0531 399 74 99</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>&#214;ZVATAN</td><td>181115</td><td>TUĞLAŞAH</td><td>582,33</td><td>13</td><td>33</td><td>Salim BALCIOĞLU</td><td>0535 224 46 33</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>&#214;ZVATAN</td><td>42258</td><td>YENİ</td><td>336,10</td><td>3</td><td>310</td><td>Tamer BOT</td><td>0554 598 47 35</td><td>7812547</td>
+		</tr><tr>
+			<td>&#214;ZVATAN</td><td>42262</td><td>YUKARI BOĞAZİ&#199;İ</td><td>839,43</td><td>8</td><td>280</td><td>Murat EYVAZO</td><td>0536 661 82 69</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181259</td><td>AK&#214;REN</td><td>3956,33</td><td>59</td><td>79</td><td>ERDEM CANBULAT</td><td>0530 878 39 44</td><td>542 71 64</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181123</td><td>AKPINAR</td><td>773,54</td><td>12</td><td>36</td><td>&#214;ZLEM &#214;ZDEMİR</td><td>0536 747 28 14</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181375</td><td>ALAGAZİLİ</td><td>769,83</td><td>92</td><td>123</td><td>YASİN KO&#199;</td><td>0535 730 37 01</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181125</td><td>ALAMESCİT</td><td>1068,41</td><td>13</td><td>34</td><td>Sezai DOMANİ&#199;</td><td>0505 533 63 84</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181127</td><td>ALTIKESEK</td><td>3847,52</td><td>14</td><td>47</td><td>ZEKİ MERT K&#214;K</td><td>0553 217 25 03</td><td>531 10 10</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181379</td><td>ARSLANBEYLİ</td><td>826,45</td><td>93</td><td>282</td><td>CENGİZ DURSUN </td><td>0536 495 9711</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181381</td><td>ARTMAK</td><td>1155,08</td><td>94</td><td>67</td><td>NURTEN DOĞAN</td><td>0536 963 43 15</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181129</td><td>AŞAĞIBEY&#199;AYIRI</td><td>4229,13</td><td>15</td><td>59</td><td>AYDEMİR S&#214;NMEZ</td><td>0545 639 29 55</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181131</td><td>AŞAĞIBORANDERE</td><td>2108,19</td><td>16</td><td>110</td><td>&#214;ZDAL AKDENİZ</td><td>0530 070 42 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181133</td><td>AŞAĞIKARAG&#214;Z</td><td>1217,58</td><td>17</td><td>124</td><td>TAHA ENES PE&#199;ENEK</td><td>0555 014 18 64</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181135</td><td>AŞAĞIKIZIL&#199;EVLİK</td><td>2966,74</td><td>18</td><td>56</td><td>MURAT &#214;ZBEKOĞLU</td><td>0552 221 86 99</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181137</td><td>AVŞARPOTUKLU</td><td>2262,41</td><td>19</td><td>35</td><td>METEHAN ATAŞ</td><td>0532 137 03 13</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181263</td><td>AYG&#214;RMEZ</td><td>1132,90</td><td>60</td><td>60</td><td>RAFET BAŞKAN</td><td>0506 213 60 34</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181139</td><td>BAH&#199;ECİK</td><td>770,46</td><td>20</td><td>146</td><td>ORHAN &#220;LGER</td><td>0507 777 02 81</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181265</td><td>BESEREK</td><td>4321,92</td><td>61</td><td>120</td><td>REFİK &#214;ZDEMİR</td><td>0507 425 23 92</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181141</td><td>B&#220;Y&#220;KG&#220;M&#220;ŞG&#220;N</td><td>3075,45</td><td>21</td><td>215</td><td>ABDULKADİR &#214;ZDEMİR</td><td>0537 561 44 57</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181143</td><td>B&#220;Y&#220;KG&#220;RLEĞEN</td><td>1302,24</td><td>22</td><td>132</td><td>SEZAYİ KARAKAYA </td><td>0530 951 01 21</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181145</td><td>B&#220;Y&#220;KKABAKTEPE</td><td>3465,06</td><td>23</td><td>104</td><td>BAYRAM &#214;ZBIYIK</td><td>0554 884 41 56</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181147</td><td>B&#220;Y&#220;KKARAMANLI</td><td>1192,35</td><td>24</td><td>150</td><td>OKTAY DİN&#199;ASLAN</td><td>0537 409 57 08</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181149</td><td>B&#220;Y&#220;KKARAMUKLU</td><td>816,57</td><td>25</td><td>100</td><td>BİLAL ERDOĞAN</td><td>0554 359 03 27</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181151</td><td>B&#220;Y&#220;KK&#214;MARMUT</td><td>1474,22</td><td>26</td><td>133</td><td>OĞUZHAN AYKIR</td><td>0507 222 58 05</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181153</td><td>B&#220;Y&#220;KPOTUKLU</td><td>2478,74</td><td>27</td><td>148</td><td>EROL ŞENG&#220;L </td><td>0532 678 41 35</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181383</td><td>CABE</td><td>2088,52</td><td>95</td><td>104</td><td>Turan &#214;ZER</td><td>0533 697 30 12</td><td>545 10 11</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181385</td><td>CİNAHMET</td><td>794,26</td><td>96</td><td>45</td><td>Kiraz SARA&#199;</td><td>0534 455 58 80</td><td>524 26 23</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181267</td><td>CİNLİ&#214;REN</td><td>1181,46</td><td>62</td><td>48</td><td>&#214;nder CANKILI&#199;</td><td>0541 923 47 46</td><td>542 72 25</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181389</td><td>&#199;AKILKAYA</td><td>1700,72</td><td>98</td><td>322</td><td>AHMET DURMUŞ</td><td>0535 511 84 93</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181391</td><td>&#199;AYBAŞI</td><td>1197,41</td><td>99</td><td>66</td><td>SALİM DURMUŞ </td><td>0552 261 25 68</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181393</td><td>&#199;&#214;RD&#220;KL&#220;</td><td>1909,48</td><td>100</td><td>182</td><td>Veli DEMİR</td><td>0530 109 87 98</td><td>536 10 92</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181271</td><td>&#199;UKURYURT</td><td>3729,90</td><td>63</td><td>48</td><td>PAŞA DEMİRKAN</td><td>0553 211 58 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181155</td><td>DEMİRCİLİ</td><td>3425,87</td><td>28</td><td>186</td><td>Veli &#199;OK</td><td>0536 479 96 82</td><td>527 50 71</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181275</td><td>DEMİRCİ&#214;REN</td><td>2710,80</td><td>64</td><td>75</td><td>Arif ŞENG&#220;L</td><td>0536 661 15 14</td><td>542 70 23</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181279</td><td>DEVEDERESİ</td><td>888,21</td><td>65</td><td>19</td><td>Hidayet TURAN</td><td>0554 573 55 67</td><td>542 71 20</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181319</td><td>DİKİLİTAŞ</td><td>5984,09</td><td>76</td><td>75</td><td>HAKAN POLAT</td><td>0542 778 62 54</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181395</td><td>DİLCİLER</td><td>1321,01</td><td>101</td><td>133</td><td>VELİ DİLBAZ</td><td>0538 924 87 84</td><td>536 10 20</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181157</td><td>EĞRİS&#214;Ğ&#220;T</td><td>1971,17</td><td>29</td><td>58</td><td>MEHMET EBEŞ</td><td>0533 730 07 24</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181397</td><td>ELMALI</td><td>719,04</td><td>102</td><td>75</td><td>İSA DURSUN </td><td>0534 727 09 39</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181159</td><td>EMEĞİL</td><td>2426</td><td>30</td><td>118</td><td>ERHAN YILDIRIM</td><td>0544 944 81 81</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181401</td><td>ESKİTEKKE</td><td>1623,96</td><td>104</td><td>93</td><td>SUAT ALTIPARMAK</td><td>0535 655 58 19</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181161</td><td>ESKİYASSIPINAR</td><td>13308,42</td><td>31</td><td>151</td><td>Hasan KURT</td><td>0537 614 55 51</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181163</td><td>FAKIEKİNCİLİĞİ</td><td>2715,05</td><td>32</td><td>60</td><td>SAİM MIZRAK</td><td>0538 483 36 01</td><td>547 10 11</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181165</td><td>GEBELEK</td><td>2431,92</td><td>33</td><td>94</td><td>AYTA&#199; YILMAZ</td><td>0507 425 04 75</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181167</td><td>G&#214;LC&#220;K</td><td>949,84</td><td>34</td><td>102</td><td>SAMİ AKKAYA </td><td>0533 493 10 66</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181403</td><td>G&#220;LTEPE</td><td>1147,61</td><td>105</td><td>202</td><td>ALİ &#199;&#214;K&#220;K</td><td>0530 499 12 03</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>42267</td><td>G&#220;M&#220;ŞG&#220;N</td><td>420,76</td><td>1</td><td>996</td><td>Kadir MAĞARA</td><td>0507 776 17 09</td><td>512 16 43</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>42268</td><td>G&#220;NEY</td><td>109,31</td><td>2</td><td>750</td><td>Muhammet CANSIZ</td><td>0531 317 19 02</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181169</td><td>HALİTBEY&#214;REN</td><td>3027,93</td><td>35</td><td>107</td><td>Onur YIMKAZ </td><td>0555 536 41 47</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181405</td><td>HAN</td><td>1734,31</td><td>106</td><td>91</td><td>YAŞAR KAYGISIZ</td><td>0534 499 53 91</td><td>524 27 49</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181407</td><td>HASIRCI</td><td>744,93</td><td>107</td><td>104</td><td>NURİ AVŞAR</td><td>0537 236 61 30</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181409</td><td>HASSA</td><td>1293,20</td><td>108</td><td>113</td><td>ERKAN ALBAYRAK</td><td>0535 073 76 09</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181283</td><td>HAYRİYE</td><td>2940,69</td><td>66</td><td>47</td><td>TANJU &#214;ZDEMİR</td><td>0532 550 73 89</td><td>526 66 40</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181321</td><td>HİLMİYE</td><td>7482,70</td><td>77</td><td>83</td><td>&#214;ZDEMİR BAK </td><td>0505 645 83 43</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>42269</td><td>H&#220;RRİYET</td><td>271,86</td><td>3</td><td>2427</td><td>ŞABAN &#214;ZDEMİR</td><td>0539 862 71 76</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181171</td><td>İĞDELİPAYASLI</td><td>1696,22</td><td>36</td><td>89</td><td>&#199;ETİN YILDIZ</td><td>0538 055 94 22</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181285</td><td>İNLİ&#214;REN</td><td>5072,09</td><td>67</td><td>93</td><td>&#220;mit YILMAZ</td><td>0536 579 16 03</td><td>542 70 72</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>42270</td><td>İN&#214;N&#220;</td><td>139,42</td><td>4</td><td>414</td><td>Erdoğan DOĞAN</td><td>0535 048 10 37</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181411</td><td>KADILI</td><td>1006,62</td><td>109</td><td>119</td><td>İSMET G&#214;KER </td><td>0535 840 05 36</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181325</td><td>KAFTANGİYEN</td><td>9310,75</td><td>78</td><td>80</td><td>CİHAN AKSOY</td><td>0501 911 31 46</td><td>528 15 99</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181413</td><td>KAMAN</td><td>992,34</td><td>110</td><td>177</td><td>EMRAH G&#220;ND&#220;Z</td><td>0531 940 19 22</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181173</td><td>KARABOĞAZ</td><td>1947,60</td><td>37</td><td>93</td><td>HAKAN İMDAT </td><td>0506 130 09 87</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181177</td><td>KARAHACILI</td><td>1193,44</td><td>38</td><td>126</td><td>S&#252;leyman DURMUŞ</td><td>0506 151 30 67</td><td>527 52 33</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181329</td><td>KARAHALKA</td><td>5272,54</td><td>79</td><td>36</td><td>ORHAN DİKİŞ</td><td>0535 321 58 33</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181333</td><td>KARAKUYU</td><td>9523,47</td><td>80</td><td>103</td><td>HACI İLYAS KENTK&#214;Y </td><td>0535 935 13 57</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181289</td><td>KAVAKK&#214;Y</td><td>2850,43</td><td>68</td><td>115</td><td>MEHMET G&#220;LTEKİN</td><td>0506 959 93 54</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181415</td><td>KAVLAKLAR</td><td>1390,45</td><td>111</td><td>126</td><td>MEHMET KO&#199;ER</td><td>0505 551 25 27</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181179</td><td>KAYAALTI</td><td>5614,55</td><td>39</td><td>146</td><td>BURHANETTİN BEDİR</td><td>0530 519 58 77</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181417</td><td>KAYABAŞI</td><td>1519,93</td><td>112</td><td>204</td><td>HASAN CİNG&#214;Z</td><td>0507 612 58 34</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>42271</td><td>KAYA&#214;N&#220;</td><td>1229,26</td><td>5</td><td>503</td><td>HACI &#199;ELEBİ</td><td>0544 343 00 74</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181117</td><td>KAYNAR</td><td>13980,92</td><td>10</td><td>221</td><td>AYCAN BEYAZ</td><td>0539 203 99 48</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181337</td><td>KAZANCIK</td><td>8206,55</td><td>81</td><td>76</td><td>NURETTİN YAĞAN</td><td>0537 749 92 54</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>42272</td><td>KERİMOĞLU</td><td>185,50</td><td>6</td><td>417</td><td>MEHMET TAŞKIN</td><td>0507 364 11 49</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181419</td><td>KILI&#199;KIŞLA</td><td>1314,38</td><td>113</td><td>126</td><td>KENAN MEMİŞ </td><td>0537 737 69 53</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181183</td><td>KILI&#199;MEHMET</td><td>2047,75</td><td>40</td><td>94</td><td>ERCAN YILDIRIM</td><td>0533 397 05 94</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181187</td><td>KIRKGE&#199;İT</td><td>5606,08</td><td>41</td><td>122</td><td>VELİ ŞİMŞEK</td><td>0536 215 35 22</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181341</td><td>KIRKPINAR</td><td>3744,12</td><td>82</td><td>36</td><td>KENAN AYDEMİR</td><td>0553 325 58 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181191</td><td>KIZILDERE</td><td>1202,09</td><td>42</td><td>119</td><td>FEHMİ POLAT </td><td>0507 028 71 90</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181195</td><td>KIZILHAN</td><td>1030,82</td><td>43</td><td>136</td><td>SALİM ARSLAN</td><td>0537 472 80 23</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181421</td><td>KIZIL&#214;REN</td><td>11558,01</td><td>114</td><td>165</td><td>ALPASLAN ATAY</td><td>0535 484 59 99</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181199</td><td>K&#214;ŞKERLİ</td><td>502,14</td><td>44</td><td>21</td><td>&#214;zkan ER</td><td>0555 857 93 81 </td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181343</td><td>KURBAĞALIK</td><td>2864,99</td><td>83</td><td>76</td><td>Ramazan KAYA</td><td>0535 316 45 06</td><td>529 11 56</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181423</td><td>KURTTEPE</td><td>1305,54</td><td>115</td><td>107</td><td>Mahmut G&#214;KŞEN</td><td>0536 854 82 82</td><td>524 26 28</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181293</td><td>KUŞ&#199;ULAR</td><td>2050,96</td><td>69</td><td>62</td><td>EMİN KAYA </td><td>0533 342 97 76</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181203</td><td>K&#220;&#199;&#220;KK&#214;MARMUT</td><td>323,53</td><td>45</td><td>59</td><td>AHMET ŞİMŞEK</td><td>0544 476 35 39</td><td>527 50 33</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181205</td><td>K&#220;&#199;&#220;KPOTUKLU</td><td>1457,60</td><td>46</td><td>70</td><td>Mithat &#214;&#199;AL</td><td>0507 549 56 48</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181295</td><td>MALAKK&#214;Y</td><td>5974,57</td><td>70</td><td>151</td><td>EKREM CEYLAN</td><td>0532 417 19 50</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181209</td><td>MELİKGAZİ</td><td>1191,23</td><td>47</td><td>65</td><td>AYDEMİR SEYHAN</td><td>0505 678 28 04</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181349</td><td>METHİYE</td><td>8345,39</td><td>84</td><td>121</td><td>AYTEKİN KOŞAR </td><td>0553 439 38 30</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181213</td><td>OLUKKAYA</td><td>6461,38</td><td>48</td><td>134</td><td>ALİ RIZA G&#220;REL</td><td>0546 601 64 83</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181425</td><td>ORU&#199;OĞLU</td><td>1127,05</td><td>116</td><td>40</td><td>Gen&#231;aslan BOZKURT</td><td>0531 271 92 61</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181315</td><td>&#214;RENŞEHİR BUCAK MERKEZİ</td><td>5725,78</td><td>75</td><td>107</td><td>&#199;AĞLAR DOĞTAŞ</td><td>0537 287 65 51</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181299</td><td>PANLI</td><td>4299,25</td><td>71</td><td>135</td><td>Yakup KARAG&#214;Z</td><td>0542 273 71 79</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181427</td><td>PAŞALI</td><td>1327,82</td><td>117</td><td>163</td><td>Işık YILDIZ</td><td>0505 142 57 51</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181121</td><td>PAZAR&#214;REN</td><td>3605,02</td><td>11</td><td>584</td><td>NİHAT EFE</td><td>0541 346 42 32</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181353</td><td>PAZARSU</td><td>5480,67</td><td>85</td><td>55</td><td>Yıldırım TOK</td><td>0536 513 91 38</td><td>528 15 14</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181217</td><td>PULPINAR</td><td>624,07</td><td>49</td><td>21</td><td>YUNUS DEMİR</td><td>0535 766 18 60</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181357</td><td>SA&#199;AYAĞI</td><td>5299,79</td><td>86</td><td>70</td><td>CANKAT TOĞAN</td><td>0535 648 14 02</td><td>529 11 79</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181429</td><td>SA&#199;LI</td><td>662,06</td><td>118</td><td>82</td><td>HAMZA CANPOLAT</td><td>0537 887 73 13</td><td>546 10 29</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181387</td><td>SERİNYURT</td><td>955,37</td><td>97</td><td>99</td><td>BAHADIR CIRDI</td><td>0535 660 96 32</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181221</td><td>SOLAKLAR</td><td>1157,97</td><td>50</td><td>188</td><td>H&#220;SEYİN ERDOĞAN</td><td>0536 978 94 04</td><td>544 10 21</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181303</td><td>S&#214;Ğ&#220;TL&#220;</td><td>2029,63</td><td>72</td><td>51</td><td>G&#220;VEN &#214;ZKAN</td><td>0545 801 11 28</td><td>542 71 65</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181431</td><td>ŞABANLI</td><td>1027,91</td><td>119</td><td>381</td><td>BATTAL SARIKAYA</td><td>0532 550 87 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181361</td><td>ŞEREFİYE</td><td>3146,24</td><td>87</td><td>55</td><td>MAHMUT VURDUM</td><td>0530 952 53 44</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181307</td><td>TAHTAK&#214;PR&#220;</td><td>2674,52</td><td>73</td><td>48</td><td>EROL EĞERCİ</td><td>0546 931 91 97</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181365</td><td>TAŞLIGE&#199;İT</td><td>2234,18</td><td>88</td><td>27</td><td>METİN ERMEZ</td><td>0541 899 65 84</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181223</td><td>TAŞLIOĞLU</td><td>673,84</td><td>51</td><td>47</td><td>AHMET REN&#199;BER</td><td>0533 529 58 34</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181227</td><td>TAŞOLUK</td><td>2865,24</td><td>52</td><td>52</td><td>AYDEMİR YAVAN</td><td>0533 496 76 35</td><td>523 60 56</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181311</td><td>TERSAKAN</td><td>4894,68</td><td>74</td><td>70</td><td>CANKAT AKKAYA </td><td>0535 021 02 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181399</td><td>TOYBUK</td><td>1016,57</td><td>103</td><td>231</td><td>Yeter &#199;ALIK</td><td>0506 644 72 88</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181435</td><td>T&#214;ZG&#220;N</td><td>1294,48</td><td>120</td><td>225</td><td>H&#220;SEYİN CANBULAT</td><td>0543 277 85 94</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181369</td><td>UZUNPINAR</td><td>6438,79</td><td>89</td><td>143</td><td>FAYIK YILMAZ</td><td>0535 238 13 72</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>42273</td><td>UZUNYOL</td><td>6,18</td><td>7</td><td>122</td><td>BEHİYE BEKTAŞ</td><td>0538 033 79 43</td><td>512 27 00</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181371</td><td>&#220;&#199;PINAR</td><td>4442,12</td><td>90</td><td>56</td><td>&#220;NSAL G&#220;NEY </td><td>0537 777 04 45</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181229</td><td>YAĞLIPINAR</td><td>3750,83</td><td>53</td><td>79</td><td>C&#220;NEYT KALAN </td><td>0507 595 55 73</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181373</td><td>YAHYABEY</td><td>6680,26</td><td>91</td><td>106</td><td>Ali &#199;ETİNKAYA</td><td>0539 700 97 16</td><td>552 45 25</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181437</td><td>YARIMTEPE</td><td>936,45</td><td>121</td><td>144</td><td>MURAT ALKAN</td><td>0505 966 48 26</td><td>522 52 20</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>42274</td><td>YENİCAMİ</td><td>30,36</td><td>8</td><td>1087</td><td>Melik ŞAHİN</td><td>0505 226 57 16</td><td>512 24 99</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>42275</td><td>YENİOCAK</td><td>16,26</td><td>9</td><td>896</td><td>İbrahim OCAKLI</td><td>0535 214 86 47</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181439</td><td>YEREGE&#199;EN</td><td>670,72</td><td>122</td><td>41</td><td>İNAN MUCUK </td><td>0546 464 33 84</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181233</td><td>YUKARIBEY&#199;AYIRI</td><td>2468,75</td><td>54</td><td>97</td><td>YAKUP KOŞMAZ</td><td>0507 223 05 32</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181239</td><td>YUKARIBORANDERE</td><td>9113,44</td><td>55</td><td>646</td><td>YUSUF KOZ</td><td>0506 459 25 07</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181245</td><td>YUKARIKARAG&#214;Z</td><td>4647,96</td><td>56</td><td>249</td><td>ALİ DURSUN</td><td>0530 130 52 71</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181249</td><td>YUKARIKIZIL&#199;EVLİK</td><td>2852,07</td><td>57</td><td>38</td><td>AYDEMİR YILDIZ </td><td>0506 580 38 15</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>PINARBAŞI</td><td>181253</td><td>YUSUFLAR</td><td>1764,82</td><td>58</td><td>27</td><td>Selahattin KAYHAN</td><td>0505 233 78 63</td><td>547 10 21</td>
+		</tr><tr>
+			<td>SARIOĞLAN</td><td>181441</td><td>ALAMETTİN</td><td>6989,68</td><td>4</td><td>467</td><td>Veysel CERAN</td><td>0553 208 92 89</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIOĞLAN</td><td>42284</td><td>BAKARCAK</td><td>4048,83</td><td>2</td><td>1012</td><td>Mustafa &#199;ETİNSAĞ</td><td>0535 374 83 06</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIOĞLAN</td><td>181453</td><td>BURUN&#214;REN</td><td>1578,67</td><td>9</td><td>109</td><td>Eren &#214;ZEL</td><td>0505 135 11 22</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIOĞLAN</td><td>181443</td><td>&#199;İFTLİK</td><td>4915,37</td><td>5</td><td>1226</td><td>Mehmet TATAR</td><td>0507 856 71 01</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIOĞLAN</td><td>181455</td><td>D&#220;ZENCİK</td><td>1155,86</td><td>10</td><td>115</td><td>Muhittin SARIASLAN</td><td>0537 276 74 55</td><td>824 10 38</td>
+		</tr><tr>
+			<td>SARIOĞLAN</td><td>181457</td><td>EB&#220;LHAYIR</td><td>1290,55</td><td>11</td><td>326</td><td>Nuri &#214;ZG&#220;L</td><td>0530 972 64 93</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIOĞLAN</td><td>181445</td><td>GAZİLER</td><td>4828,55</td><td>6</td><td>330</td><td>Mustafa BOZKURT</td><td>0536 929 23 51</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIOĞLAN</td><td>42285</td><td>G&#220;ZELYAZI</td><td>2832,18</td><td>3</td><td>1225</td><td>&#220;mit CERİT</td><td>0533 397 78 57</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIOĞLAN</td><td>563627</td><td>H&#220;RRİYET</td><td>1404,46</td><td>28</td><td>1224</td><td>Emre ALTINBAŞAK</td><td>0546 500 38 19</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIOĞLAN</td><td>197759</td><td>ILICA</td><td>2190,14</td><td>27</td><td>716</td><td>Serkan AY</td><td>0541 321 77 16</td><td>811 25 62</td>
+		</tr><tr>
+			<td>SARIOĞLAN</td><td>181459</td><td>İĞDELİ</td><td>1119,59</td><td>12</td><td>90</td><td>Gazi DAŞY&#220;REK</td><td>0536 575 22 65</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIOĞLAN</td><td>181461</td><td>KADILI</td><td>572,32</td><td>13</td><td>85</td><td>Volkan KOĞ</td><td>0537 771 70 68</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIOĞLAN</td><td>181463</td><td>KALEK&#214;Y</td><td>1236,21</td><td>14</td><td>103</td><td>Kemal TEMİZER</td><td>0505 953 69 71</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIOĞLAN</td><td>181451</td><td>KARA&#214;Z&#220;</td><td>2996,12</td><td>8</td><td>660</td><td>Yasin KAYA</td><td>0531 569 14 41</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIOĞLAN</td><td>181465</td><td>KARPINAR</td><td>1674,51</td><td>15</td><td>89</td><td>İsmail KAPLAN</td><td>0534 729 21 30</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIOĞLAN</td><td>181467</td><td>KEKLİKOĞLU</td><td>1156,29</td><td>16</td><td>99</td><td>Mehmet OĞUZHAN</td><td>0507 932 51 80</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIOĞLAN</td><td>181469</td><td>KIZILPINAR</td><td>1024</td><td>17</td><td>70</td><td>Mehmet G&#214;KDEMİR</td><td>0507 607 08 52</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIOĞLAN</td><td>181471</td><td>MURATBEYLİ</td><td>1848,40</td><td>18</td><td>184</td><td>Bayram &#214;ZT&#220;RK</td><td>0535 404 83 96</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIOĞLAN</td><td>181473</td><td>&#214;MERHACILI</td><td>1977,21</td><td>19</td><td>205</td><td>Behzat &#214;ZBAY</td><td>0537 970 66 63</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIOĞLAN</td><td>181477</td><td>&#214;M&#220;RL&#220;</td><td>1093,64</td><td>20</td><td>93</td><td>Abdullah ARSLAN</td><td>0507 502 72 08</td><td>822 10 67 </td>
+		</tr><tr>
+			<td>SARIOĞLAN</td><td>181449</td><td>PALAS</td><td>8062,19</td><td>7</td><td>2990</td><td>Ahmet ZENGİN</td><td>0537 938 13 31</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIOĞLAN</td><td>181479</td><td>SOFUMAHMUT</td><td>1151,94</td><td>21</td><td>184</td><td>&#214;mer &#214;ZER</td><td>0542 899 71 08 </td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIOĞLAN</td><td>42286</td><td>ŞENYURT</td><td>1274,52</td><td>1</td><td>522</td><td>Murat AKSOY</td><td>0536 314 46 42</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIOĞLAN</td><td>181481</td><td>TATILI</td><td>4120,88</td><td>22</td><td>506</td><td>Ey&#252;p AKYOL</td><td>0541 521 59 32</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIOĞLAN</td><td>181483</td><td>&#220;ZERLİK</td><td>2693,40</td><td>23</td><td>382</td><td>Tahsin ŞAHİN</td><td>0554 540 72 33</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIOĞLAN</td><td>181487</td><td>YAHYALI</td><td>2252,66</td><td>24</td><td>126</td><td>Gazi İNCE</td><td>0530 913 88 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIOĞLAN</td><td>181489</td><td>YERLİKUYU</td><td>1220,70</td><td>25</td><td>120</td><td>Bekir KILI&#199;</td><td>0537 454 73 16</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIOĞLAN</td><td>181493</td><td>YILDIRIM</td><td>3632,35</td><td>26</td><td>252</td><td>Orhan KO&#199;ER</td><td>0530 519 06 49</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181507</td><td>AKOLUK</td><td>1307,36</td><td>10</td><td>20</td><td>Abdulbaki DEMİR</td><td>0 546 941 52 24</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181511</td><td>ALTIS&#214;Ğ&#220;T</td><td>1545,56</td><td>11</td><td>109</td><td>Aslan Can ŞAHİN</td><td>0 505 105 37 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181553</td><td>AVŞAROBASI</td><td>4140,84</td><td>24</td><td>206</td><td>Alparslan &#199;İFT&#199;İ</td><td>0 543 445 56 69</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181515</td><td>AYRANLIK</td><td>967,15</td><td>12</td><td>180</td><td>Mustafa YILMAZ</td><td>0 538 333 12 72</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>42300</td><td>BAH&#199;ELİ</td><td>407,91</td><td>1</td><td>758</td><td>Yusuf CANPOLAT</td><td>0 505 689 70 96</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181517</td><td>B&#220;Y&#220;K &#214;RT&#220;L&#220;</td><td>1642,76</td><td>13</td><td>86</td><td>Ali ABACI</td><td>0 535 579 95 84</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181519</td><td>B&#220;Y&#220;K S&#214;BE&#199;İMEN</td><td>5174,58</td><td>14</td><td>233</td><td>G&#252;ltekin EROL</td><td>0 534 814 00 01</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181525</td><td>&#199;AĞŞAK</td><td>4709,15</td><td>15</td><td>191</td><td>H&#252;seyin ALTUN</td><td>0 531 481 12 85</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>42301</td><td>&#199;ATALPINAR</td><td>1445,63</td><td>2</td><td>242</td><td>Ahmet &#199;avuş G&#214;K</td><td>0 538 740 24 83</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181527</td><td>&#199;AVDAR</td><td>5975,32</td><td>16</td><td>224</td><td>Dursun AYDOĞDU</td><td>0 541 427 97 11</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181531</td><td>&#199;&#214;REKDERE</td><td>3527,88</td><td>17</td><td>362</td><td>Mustafa YAL&#199;INKAYA</td><td>0 507 274 81 36</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181533</td><td>DALLIKAVAK</td><td>1875,82</td><td>18</td><td>199</td><td>İbrahim BEKTAŞ</td><td>0&#160;536 339 97 68</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181537</td><td>DAMIZLIK</td><td>7648,96</td><td>19</td><td>530</td><td>Yakup DORUK</td><td>0 535 797 11 78</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181541</td><td>DARIDERE</td><td>1224,06</td><td>20</td><td>85</td><td>H&#252;seyin DOĞAN</td><td>0 539 366 37 41</td><td>561 21 83</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181543</td><td>DAYOLUK</td><td>4859,26</td><td>21</td><td>103</td><td>Emin &#199;ELİK</td><td>0 534 707 30 44</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181547</td><td>DEĞİRMENTAŞ</td><td>7668,71</td><td>22</td><td>52</td><td>G&#246;khan &#214;ZKAN</td><td>0 534 641 75 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181549</td><td>FETTAHDERE</td><td>2083,85</td><td>23</td><td>126</td><td>Emrah SALMA</td><td>0 544 517 32 55</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181555</td><td>G&#220;M&#220;ŞALİ</td><td>1219,12</td><td>25</td><td>91</td><td>İn&#246;n&#252; DEMİR&#160;</td><td>0 536 613 44 67</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>42302</td><td>G&#220;NESEN</td><td>949,09</td><td>3</td><td>482</td><td>Mustafa T&#220;RKD&#214;NMEZ</td><td>0 530 339 48 15</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181589</td><td>İMİRZAAĞA</td><td>1685,33</td><td>36</td><td>79</td><td>Remzi CENGİZHAN</td><td>0 539 586 40 39</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>42303</td><td>İNCEDERE</td><td>2266,13</td><td>4</td><td>300</td><td>Suat TUN&#199;</td><td>0 530 429 77 84</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181557</td><td>İNCEMAĞARA</td><td>1389,01</td><td>26</td><td>98</td><td>Muhiddin ARIK</td><td>0 535 682 37 89</td><td>564 41 30</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181563</td><td>KARAPINAR</td><td>5376,14</td><td>28</td><td>192</td><td>İbrahim TEBER</td><td>0 536 206 76 20</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181567</td><td>KARAYURT</td><td>1613,78</td><td>29</td><td>171</td><td>Adnan KAYA</td><td>0 533 387 36 17</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181561</td><td>KEMER</td><td>2124,51</td><td>27</td><td>195</td><td>Tevfik YILDIZ</td><td>0 537 445 55 82</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181569</td><td>KIRKISRAK</td><td>7627,54</td><td>30</td><td>370</td><td>Mehmet BABUR</td><td>0 537 861 00 30</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181575</td><td>KISKA&#199;LI</td><td>2696,40</td><td>31</td><td>111</td><td>Mehmet KILI&#199;KAYA</td><td>0 532 793 42 30</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>42304</td><td>KIZILPINAR</td><td>1208,60</td><td>5</td><td>241</td><td>Rasim KOCAKAYA</td><td>0 543 691 15 18</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>42305</td><td>KURDİNİ</td><td>53,69</td><td>6</td><td>52</td><td>Asef ARIK</td><td>0 535 730 39 89</td><td>247 33 61</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181577</td><td>KURUDERE</td><td>1444,52</td><td>32</td><td>63</td><td>&#214;mer Faruk HASPOLAT</td><td>0 553 264 74 65</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>42306</td><td>KUŞ&#199;U</td><td>684,21</td><td>7</td><td>306</td><td>Mehmet DEMİRCİ</td><td>0 533 246 44 92</td><td>561 34 57</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181581</td><td>K&#220;&#199;&#220;K KABAKTEPE</td><td>3252,51</td><td>33</td><td>47</td><td>Kenan AKAR</td><td>0 538 456 80 68</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181583</td><td>K&#220;&#199;&#220;K &#214;RT&#220;L&#220;</td><td>1239,86</td><td>34</td><td>31</td><td>Aziz AĞCA</td><td>0 532 746 07 87</td><td>576 10 89</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181585</td><td>K&#220;&#199;&#220;K S&#214;BE&#199;İMEN</td><td>2637,91</td><td>35</td><td>43</td><td>Serdar ASLAN</td><td>0 538 225 77 69</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181593</td><td>MOLLAH&#220;SEYİNLER</td><td>1279,15</td><td>37</td><td>183</td><td>Muhittin YILDIZ</td><td>0 536 217 90 53</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181595</td><td>OĞLAKKAYA</td><td>1444,24</td><td>38</td><td>101</td><td>Musa MARAŞLI</td><td>0 545 479 14 36</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181597</td><td>&#214;RDEKLİ</td><td>3373,98</td><td>39</td><td>63</td><td>Sıtkı TİMUR</td><td>0 535 662 36 42</td><td>565 51 46</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181599</td><td>SANCAKAĞIL</td><td>972,31</td><td>40</td><td>97</td><td>İsmail BİNBOĞA</td><td>0 541 336 38 21</td><td>561 28 89</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181601</td><td>TAVLA</td><td>3071,58</td><td>41</td><td>293</td><td>Salman YILDIRIM</td><td>0 532 287 02 94</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181603</td><td>TEKNELİ</td><td>3901,89</td><td>42</td><td>352</td><td>İbrahim EROĞLU</td><td>0 544 203 96 79</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181607</td><td>YAYLACI</td><td>2147,09</td><td>43</td><td>380</td><td>Talat HEREK&#199;İ</td><td>0 536 516 95 03</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181609</td><td>YEDİOLUK</td><td>1482,22</td><td>44</td><td>103</td><td>Emin &#199;ETİNKAYA</td><td>0 506 658 54 48</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>42307</td><td>YENİ</td><td>342,71</td><td>8</td><td>590</td><td>Kamil T&#220;RKD&#214;NMEZ</td><td>0 505 265 67 32</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>SARIZ</td><td>181497</td><td>YEŞİLKENT</td><td>8710,47</td><td>9</td><td>473</td><td>Kerim BOZDOĞAN</td><td>0 535 779 01 16</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TALAS</td><td>42332</td><td>AK&#199;AKAYA</td><td>850,73</td><td>25</td><td>509</td><td>AHMET B&#220;Y&#220;K&#199;EKİ&#199;</td><td>532 771 80 42</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TALAS</td><td>181611</td><td>ALAYBEYLİ</td><td>2464,99</td><td>10</td><td>555</td><td>İBRAHİM HASG&#220;L</td><td>538 860 64 54</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TALAS</td><td>181613</td><td>ARDI&#199;</td><td>1067,69</td><td>11</td><td>123</td><td>ALPER SOLAK</td><td>537 746 95 11</td><td>425 22 09</td>
+		</tr><tr>
+			<td>TALAS</td><td>42313</td><td>BAH&#199;ELİEVLER</td><td>121,35</td><td>1</td><td>22780</td><td>EJDER &#199;ETİN</td><td>505 487 30 34</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TALAS</td><td>42322</td><td>BAŞAKPINAR</td><td>3002,26</td><td>28</td><td>3909</td><td>DURDU TURAN</td><td>535 507 94 15</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TALAS</td><td>42333</td><td>CEBİR</td><td>3558,37</td><td>29</td><td>275</td><td>ALAADDİN KOCAMAZ</td><td>535 737 02 54</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TALAS</td><td>42329</td><td>&#199;ATAKDERE</td><td>1153,92</td><td>27</td><td>604</td><td>SEYİT AHMET KARABULUT</td><td>535 349 75 80</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TALAS</td><td>181615</td><td>&#199;EVLİK</td><td>1091,57</td><td>12</td><td>240</td><td>AHMET YARARBAŞ</td><td>538 331 99 23</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TALAS</td><td>181617</td><td>&#199;&#214;MLEK&#199;İ</td><td>2049,97</td><td>13</td><td>671</td><td>ALİ ŞİMŞEK</td><td>535 643 21 29</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TALAS</td><td>42314</td><td>END&#220;RL&#220;K</td><td>575,08</td><td>22</td><td>279</td><td>H&#220;SEYİN YILDIRIM</td><td>533 646 17 22</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TALAS</td><td>42315</td><td>HAN</td><td>27,96</td><td>3</td><td>512</td><td>YAKUP DOĞRUS&#214;Z</td><td>535 666 33 93</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TALAS</td><td>42316</td><td>HARMAN</td><td>782,17</td><td>4</td><td>2675</td><td>ŞAHİN &#199;İMEN</td><td>533 626 68 90</td><td>437 90 83</td>
+		</tr><tr>
+			<td>TALAS</td><td>181619</td><td>KAMBER</td><td>2761,80</td><td>14</td><td>456</td><td>MEHMET BABAYİĞİT</td><td>537 986 50 58</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TALAS</td><td>42328</td><td>KEPEZ</td><td>3382,73</td><td>2</td><td>2469</td><td>AYHAN DEMİREZEN</td><td>552 625 16 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TALAS</td><td>42317</td><td>Kİ&#199;İK&#214;Y</td><td>100,64</td><td>5</td><td>5828</td><td>BEKİR HAST&#220;RK</td><td>533 558 32 39</td><td>437 34 36</td>
+		</tr><tr>
+			<td>TALAS</td><td>181621</td><td>KO&#199;CAĞIZ</td><td>3687,07</td><td>15</td><td>459</td><td>FERHAT ODABAŞI</td><td>532 764 58 16</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TALAS</td><td>42330</td><td>KURUK&#214;PR&#220;</td><td>2974,92</td><td>24</td><td>1596</td><td>OSMAN DOĞAN</td><td>533 545 53 08</td><td>423 34 58</td>
+		</tr><tr>
+			<td>TALAS</td><td>42325</td><td>MENG&#220;CEK</td><td>963,43</td><td>32</td><td>261</td><td>ERG&#220;N ŞİMŞEK</td><td>530 772 55 51</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TALAS</td><td>42318</td><td>MEVLANA</td><td>412,33</td><td>6</td><td>94739</td><td>HACER ARIK</td><td>538 386 42 08</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TALAS</td><td>181625</td><td>&#214;RENCİK</td><td>1352,41</td><td>17</td><td>293</td><td>NURETTİN BULUT</td><td>533 610 25 44</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TALAS</td><td>42327</td><td>REŞADİYE</td><td>1468,91</td><td>26</td><td>1596</td><td>MUSTAFA &#214;ZT&#220;RK</td><td>533 354 46 56</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TALAS</td><td>181627</td><td>SAKALTUTAN</td><td>1640</td><td>18</td><td>429</td><td>NESİM &#220;NAL</td><td>535 822 53 99</td><td>425 22 85</td>
+		</tr><tr>
+			<td>TALAS</td><td>181623</td><td>SOSUN</td><td>1178,75</td><td>16</td><td>179</td><td>FATİH BOYRAZ</td><td>536 670 68 87</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TALAS</td><td>181629</td><td>S&#220;LEYMANLI</td><td>2187,32</td><td>19</td><td>530</td><td>HARUN DALMAZ</td><td>538 409 43 20</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TALAS</td><td>42319</td><td>TABLAKAYA</td><td>498,09</td><td>7</td><td>2707</td><td>NAZIM AKKAYA</td><td>532 713 45 21</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TALAS</td><td>181631</td><td>YAMA&#199;LI</td><td>1221,65</td><td>20</td><td>335</td><td>FATİH K&#214;ROĞLU</td><td>534 544 52 15</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TALAS</td><td>181633</td><td>YAZYURDU</td><td>1554,50</td><td>21</td><td>559</td><td>MEMİŞ AKBULUT</td><td>532 524 31 34</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TALAS</td><td>42320</td><td>YENİDOĞAN</td><td>348,90</td><td>8</td><td>26372</td><td>ADEM ATASOY</td><td>531 576 10 88</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TALAS</td><td>42321</td><td>YUKARI</td><td>329,61</td><td>9</td><td>1122</td><td>AHMET &#220;NAL</td><td>533 923 12 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TALAS</td><td>42331</td><td>ZİNCİDERE</td><td>1702,10</td><td>31</td><td>595</td><td>MUSTAFA &#199;ELİK</td><td>546 403 19 68</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181641</td><td>AKDERE</td><td>6096,74</td><td>9</td><td>928</td><td>RAMAZAN ALBAYRAK</td><td>0534 496 82 09</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181701</td><td>AKMEZAR</td><td>1406,86</td><td>38</td><td>88</td><td>RAMAZAN AKTOPRAK</td><td>0539 649 11 34</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181703</td><td>ARSLANTAŞ</td><td>5601,76</td><td>39</td><td>197</td><td>HAMDİ DAVARCI</td><td>0536 727 80 48</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181639</td><td>AVŞARS&#214;Ğ&#220;TL&#220;</td><td>3757,18</td><td>8</td><td>221</td><td>G&#214;KSEL ALTUNTAŞ</td><td>0536 389 99 85</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181643</td><td>BEKTAŞ</td><td>1083,29</td><td>10</td><td>31</td><td>SEZER ERCİYAS</td><td>0543 426 12 76</td><td>6811065</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181645</td><td>BOSTANLIK</td><td>2172,93</td><td>11</td><td>118</td><td>ALİ OSMAN AKSOY</td><td>0537 050 58 68</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181647</td><td>B&#214;KE</td><td>3012,95</td><td>12</td><td>138</td><td>VEDAT YAZGAN</td><td>0532 789 23 51</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181705</td><td>B&#220;Y&#220;KCANLI</td><td>2562,63</td><td>40</td><td>184</td><td>MURAT COŞKUN</td><td>0536 277 61 15</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181657</td><td>CULHA</td><td>1684,27</td><td>16</td><td>319</td><td>&#214;MER BOZDOĞAN</td><td>0543 839 88 26</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>42334</td><td>CUMHURİYET</td><td>4880,28</td><td>1</td><td>2066</td><td>B&#220;LENT TOPALOĞLU</td><td>0532 601 01 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181651</td><td>C&#220;C&#220;N</td><td>2638,79</td><td>14</td><td>396</td><td>BİLAL KARAOĞLU</td><td>0551 644 23 00</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181707</td><td>&#199;ANAKPINAR</td><td>896,86</td><td>41</td><td>269</td><td>AHMET DOĞAN</td><td>0530 076 18 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181709</td><td>&#199;AYİNLİ</td><td>1654,13</td><td>42</td><td>159</td><td>S&#220;LEYMAN AVCU</td><td>0539 450 73 70</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181655</td><td>&#199;UKURAĞA&#199;</td><td>704,94</td><td>15</td><td>52</td><td>MURAT &#214;ZDEN</td><td>0535 477 62 80</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181635</td><td>DADALOĞLU</td><td>3969,50</td><td>6</td><td>1158</td><td>&#214;MER YILMAZ</td><td>0532 207 71 08</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181711</td><td>DAĞYURDU</td><td>2383,85</td><td>43</td><td>144</td><td>SİNAN DEMİRKIRAN</td><td>0538 427 65 14</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181659</td><td>EKİNLİ</td><td>1145,78</td><td>17</td><td>111</td><td>ZEKİ SARIBAŞ</td><td>0538 471 46 71</td><td>6714734</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181637</td><td>EMİRUŞAĞI</td><td>4412,42</td><td>7</td><td>635</td><td>KUDRET KAYA</td><td>0537 649 84 31</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181713</td><td>G&#214;KTEPE</td><td>1077,17</td><td>44</td><td>48</td><td>NECATİ GEN&#199;OĞLU</td><td>0531 960 17 65</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181661</td><td>G&#220;LVEREN</td><td>1990,34</td><td>18</td><td>193</td><td>MUSTAFA KE&#199;ECİ</td><td>0537 661 12 74</td><td>4294270</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181715</td><td>G&#220;ZELCE</td><td>1007,23</td><td>45</td><td>48</td><td>MUSTAFA DURAN</td><td>0535 273 11 97</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181663</td><td>G&#220;ZELSU</td><td>3980,17</td><td>19</td><td>115</td><td>YUSUF KUŞ</td><td>0555 756 67 10</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181665</td><td>HACIPAŞA</td><td>2562,03</td><td>20</td><td>125</td><td>AZMİ TAŞ</td><td>0535 699 41 38</td><td>6811024</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181717</td><td>IŞIKLAR</td><td>3403,29</td><td>46</td><td>245</td><td>Y&#220;CEL TURGUT ELKIRAN</td><td>0537 964 09 93</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181719</td><td>İCADİYE</td><td>2168,63</td><td>47</td><td>50</td><td>ALI DUMAN</td><td>0532 234 09 59</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181667</td><td>İMAMKULLU</td><td>4743,91</td><td>21</td><td>618</td><td>S&#220;LEYMAN METİN</td><td>0537 211 55 04</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181669</td><td>İNCİLİ</td><td>2818,43</td><td>22</td><td>474</td><td>ADEM MENEKŞE</td><td>0530 117 92 12</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181671</td><td>KALE</td><td>1809,67</td><td>23</td><td>187</td><td>ALİ KORKMAZ </td><td>0537 222 20 70</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181673</td><td>KAPUKAYA</td><td>2713,63</td><td>24</td><td>297</td><td>YAŞAR DUMAN</td><td>0537 986 56 10</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181721</td><td>KARAMUKLU</td><td>3236,50</td><td>48</td><td>72</td><td>ADEM &#214;ZOCAK</td><td>0537 472 80 39</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181675</td><td>KARA&#214;REN</td><td>3115,27</td><td>25</td><td>94</td><td>ASKER ERBAY</td><td>0533 375 68 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181723</td><td>KESİR</td><td>3272,21</td><td>49</td><td>194</td><td>ALİ RIZA CAN</td><td>0531 392 49 73</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181677</td><td>KEVENAĞIL</td><td>1477,53</td><td>26</td><td>31</td><td>NİZAMETTİN KAHRAMAN</td><td>0538 218 28 49</td><td>6781190</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181679</td><td>KIZIL&#214;REN</td><td>4295,31</td><td>27</td><td>183</td><td>CUMA ATİLA</td><td>0537 504 75 68</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181683</td><td>K&#214;M&#220;R</td><td>1278,58</td><td>29</td><td>155</td><td>ZEKİ KAHRAMAN</td><td>0535 345 01 59</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181725</td><td>K&#214;PR&#220;BAŞI</td><td>1409,76</td><td>50</td><td>140</td><td>TURGAY DOĞAN</td><td>0535 500 71 34</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>42335</td><td>KURTULUŞ</td><td>1462,72</td><td>2</td><td>2131</td><td>MUSTAFA D&#214;RT</td><td>0533 449 94 82</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181681</td><td>KUŞCAĞIZ</td><td>1275,51</td><td>28</td><td>116</td><td>OSMAN KORKMAZ</td><td>0542 166 33 39</td><td>6688854</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181727</td><td>K&#220;&#199;&#220;KCANLI</td><td>1236,89</td><td>51</td><td>101</td><td>SEDAT ERDOĞAN</td><td>0535 408 28 25</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181729</td><td>MELİK&#214;REN</td><td>1554,36</td><td>52</td><td>71</td><td>HACI MEHMET İZGİ</td><td>0535 298 11 73</td><td>6762183</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181685</td><td>PUSATLI</td><td>6438,31</td><td>30</td><td>390</td><td>HALİL TANIRGAN</td><td>0532 512 77 48</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>42336</td><td>SARIMEHMETLİ</td><td>1470,06</td><td>3</td><td>701</td><td>LOKMAN AKBULUT</td><td>0534 556 19 49</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181687</td><td>S&#214;Ğ&#220;TL&#220;</td><td>3224,40</td><td>31</td><td>53</td><td>HAMİT SİRKECİ</td><td>0536 890 28 59</td><td>6811077</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181649</td><td>S&#220;VEGENLER</td><td>2492,51</td><td>13</td><td>163</td><td>B&#220;NYAMİN TEMİR</td><td>0533 592 84 37</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181689</td><td>ŞIHBARAK</td><td>2721,59</td><td>32</td><td>559</td><td>İBRAHİM YIRTICI</td><td>0539 564 44 86</td><td>6678175</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181691</td><td>ŞİRAZ</td><td>842,69</td><td>33</td><td>240</td><td>EY&#220;P ELBAŞI</td><td>0537 318 40 73</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181693</td><td>TAHTAKEMER</td><td>3854,29</td><td>34</td><td>159</td><td>DURDU ŞAHİN</td><td>0539 304 76 79</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181731</td><td>TATAR</td><td>890,73</td><td>53</td><td>178</td><td>ADEM EKİNCİ</td><td>0534 916 81 92</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181699</td><td>TOKLAR</td><td>1744,87</td><td>37</td><td>202</td><td>FATİH COŞKUN</td><td>0543 312 96 72</td><td>6762015</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181695</td><td>TURANLI</td><td>1670,12</td><td>35</td><td>185</td><td>YAL&#199;IN UTGAN</td><td>0535 924 64 81</td><td>6693671</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181733</td><td>&#220;&#199;KONAK</td><td>2010,31</td><td>54</td><td>257</td><td>HACI MEHMET ŞAHİN</td><td>0538 583 87 56</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>42337</td><td>YAVUZSELİM</td><td>7988,88</td><td>4</td><td>1975</td><td>MUSTAFA G&#220;NEY</td><td>0535 447 99 40</td><td>6613118</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>42338</td><td>YENİ</td><td>1072,28</td><td>5</td><td>2079</td><td>AHMET DOĞAN</td><td>0536 692 79 23</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>TOMARZA</td><td>181697</td><td>YEŞİLBAĞ</td><td>920,57</td><td>36</td><td>113</td><td>MEHMET DOĞAN</td><td>0537 477 80 04</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>181737</td><td>AĞCAŞAR</td><td>2437,06</td><td>15</td><td>163</td><td>B&#252;lent TEKE</td><td>0 532 056 63 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>181739</td><td>AVLAĞA</td><td>1142,69</td><td>16</td><td>331</td><td>Pazar &#199;ELİKKANAT</td><td>0 544 619 38 68</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>181741</td><td>BALCI&#199;AKIRI</td><td>5258,93</td><td>17</td><td>803</td><td>Duran AKG&#220;N</td><td>0 541 236 81 13</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>181743</td><td>BURHANİYE</td><td>4977,59</td><td>18</td><td>96</td><td>Y&#252;cel YAL&#199;IN</td><td>0 537 678 25 40</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>181745</td><td>B&#220;Y&#220;K&#199;AKIR</td><td>12418,05</td><td>19</td><td>1368</td><td>Ali APAYDIN</td><td>0 537 543 01 12</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>42345</td><td>CAMİKEBİR</td><td>6,11</td><td>4</td><td>346</td><td>İbrahim &#199;IRAKLI</td><td>0 538 308 80 67</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>516021</td><td>&#199;AĞLAYAN</td><td>4047,92</td><td>&nbsp;</td><td>351</td><td>Hacı Hasan G&#220;ZEL</td><td>0544 271 00 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>181747</td><td>&#199;AMLICA</td><td>10033,27</td><td>20</td><td>440</td><td>Hayrettin DEĞİRMENCİ</td><td>0 537 305 20 50</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>181749</td><td>&#199;AVDARUŞAĞI</td><td>1451,17</td><td>21</td><td>354</td><td>Pazar ATMACA</td><td>0 534 659 45 74</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>42346</td><td>&#199;İĞİLLİ</td><td>2431,75</td><td>9</td><td>2391</td><td>Mehmet SUCU</td><td>0 541 360 00 66</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>181751</td><td>&#199;UBUKHARMANI</td><td>7180,26</td><td>22</td><td>360</td><td>Cuma &#220;LYER</td><td>0 536 730 56 41</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>181753</td><td>&#199;UBUKLU</td><td>2863,57</td><td>23</td><td>944</td><td>Mustafa KILI&#199;</td><td>0 535 831 28 03</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>181755</td><td>DELİALİUŞAĞI</td><td>4456,09</td><td>24</td><td>689</td><td>Hasan AVŞAR</td><td>0 531 323 68 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>181757</td><td>DENİZOVASI</td><td>2223,29</td><td>25</td><td>29</td><td>Ali Safa &#214;ZKAN</td><td>0 531 857 18 19</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>181735</td><td>DEREBAĞ</td><td>6962,85</td><td>14</td><td>953</td><td>Mehmet KALAY</td><td>0 535 403 86 50</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>181759</td><td>DİKME</td><td>1783,66</td><td>26</td><td>270</td><td>Mehmet ARSLAN</td><td>0 536 612 06 42</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>42347</td><td>FETULLAH</td><td>735,80</td><td>10</td><td>741</td><td>&#214;mer UZUN</td><td>0 543 830 78 90</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>42348</td><td>FEVZİ&#199;AKMAK</td><td>1646,66</td><td>5</td><td>202</td><td>Fikret &#199;OBAN</td><td>0 542 783 24 06</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>42349</td><td>GAZİBEYLİ</td><td>178,90</td><td>2</td><td>3254</td><td>Tekin &#214;ĞRETİCİ</td><td>0 536 718 20 90</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>181761</td><td>İLYASLI</td><td>1034,60</td><td>27</td><td>595</td><td>Ali DEMİRTAŞ</td><td>0 531 360 80 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>42350</td><td>İSMET</td><td>4564,10</td><td>11</td><td>929</td><td>Abdullah KARCI</td><td>0 530 608 61 44</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>181763</td><td>KAPUZBAŞI</td><td>6550,33</td><td>28</td><td>617</td><td>Ey&#252;p DUMAN</td><td>0 536 625 64 92</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>181765</td><td>KARAK&#214;Y</td><td>8612,10</td><td>29</td><td>892</td><td>Nuri SIRKINTI</td><td>0 535 744 40 27</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>42351</td><td>KAVACIK</td><td>1246,90</td><td>8</td><td>731</td><td>Beytullah G&#214;KSUN</td><td>0 506 105 83 82</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>181767</td><td>KİRAZLI</td><td>3222,52</td><td>30</td><td>726</td><td>Emin KO&#199;</td><td>0 536 200 26 69</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>181769</td><td>KOCAHACILI</td><td>2183,54</td><td>31</td><td>568</td><td>İsmail &#199;&#220;R&#220;K</td><td>0 537 775 36 06</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>181771</td><td>KOP&#199;U</td><td>2404,80</td><td>32</td><td>567</td><td>Fatih Alparslan G&#220;&#199;L&#220;</td><td>0 535 237 89 06</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>181773</td><td>KUZOLUK</td><td>1954,02</td><td>33</td><td>45</td><td>Halil G&#214;K</td><td>0 531 627 83 75</td><td> 619 12 33</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>42352</td><td>MADAZI</td><td>31,95</td><td>3</td><td>235</td><td>Abdullah G&#214;ZBAŞI</td><td>0 532 405 20 95</td><td>611 75 60</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>181775</td><td>MUSTAFABEYLİ</td><td>1153,72</td><td>34</td><td>454</td><td>H.H&#252;seyin SARI&#199;İ&#199;EK</td><td>0 538 411 04 87</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>181777</td><td>SAZAK</td><td>2284,94</td><td>35</td><td>118</td><td>Erol TOSUN</td><td>0 533 596 10 51</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>181779</td><td>SENİRK&#214;Y</td><td>1238,40</td><td>36</td><td>499</td><td>Mehmet &#214;ĞRAĞ</td><td>0 541 352 51 38</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>42353</td><td>SEYDİLİ</td><td>87,76</td><td>1</td><td>4976</td><td>Bilal T&#220;FEK&#199;İ</td><td>0 553 525 20 10</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>181781</td><td>S&#220;LEYMANFAKILI</td><td>3191,19</td><td>37</td><td>82</td><td>Ahmet KULAK</td><td>0 533 760 63 51</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>181783</td><td>TAŞHAN</td><td>5438,84</td><td>38</td><td>584</td><td>Ayhan BAYRAKTAR</td><td>0 539 354 22 69</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>181785</td><td>ULUPINAR</td><td>24492,38</td><td>39</td><td>552</td><td>Salih TOKALI</td><td>0 541 685 60 42</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>42354</td><td>YENİCE</td><td>28235,62</td><td>6</td><td>2103</td><td>Muhuttin T&#220;RKMEN</td><td>0 530 466 35 97</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>181787</td><td>YERK&#214;Y</td><td>1488,21</td><td>40</td><td>542</td><td>Mustafa BENLİ</td><td>0 533 244 58 61</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>181789</td><td>YEŞİLK&#214;Y</td><td>4117,28</td><td>41</td><td>405</td><td>Osman BAKIR</td><td>0 535 769 30 57</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>181791</td><td>YULARI</td><td>647,77</td><td>42</td><td>199</td><td>Sait KARAG&#214;Z</td><td>0 535 459 65 76</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>42355</td><td>100.YIL</td><td>221,85</td><td>7</td><td>3358</td><td>Ahmet BAL</td><td>0 536 065 00 50</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YAHYALI</td><td>42356</td><td>75.YIL</td><td>3178,39</td><td>12</td><td>1345</td><td>Halil ŞİMŞEK</td><td>0 535 573 06 42</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>181793</td><td>AKK&#214;Y</td><td>2264,60</td><td>16</td><td>55</td><td>MUSTAFA KO&#199;AK</td><td>05322037680</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>181795</td><td>ARAPLI</td><td>3435,72</td><td>17</td><td>143</td><td>AHMET SAL</td><td>05363192638</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>181797</td><td>BAŞK&#214;Y</td><td>2975,63</td><td>18</td><td>291</td><td>YUSUF TUNCER</td><td>05347080310</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>42361</td><td>BEYLERYUKARI</td><td>6,58</td><td>5</td><td>353</td><td>MUSTAFA KORKMAZ</td><td>05443393838</td><td>651 25 26</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>181799</td><td>B&#220;GET</td><td>1215,46</td><td>19</td><td>103</td><td>MEHMET TOKHAY</td><td>05355022979</td><td>659 10 24</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>42362</td><td>CAMİKEBİR</td><td>23,79</td><td>1</td><td>306</td><td>BEKİR AKDAĞ</td><td>05375040687</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>42363</td><td>CUMHURİYET</td><td>700,39</td><td>10</td><td>919</td><td>MURAT G&#220;&#199;L&#220;T&#220;RK</td><td>05436753164</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>181801</td><td>&#199;ADIRKAYA</td><td>2211,56</td><td>20</td><td>326</td><td>BAYRAM AYDIN</td><td>05394942182</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>181803</td><td>DERBENTBAŞI</td><td>3117,47</td><td>21</td><td>334</td><td>SİNAN &#199;AYIR</td><td>05336471395</td><td>657 47 45</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>181805</td><td>DOĞANLI</td><td>3156,79</td><td>22</td><td>284</td><td>İZZET DOĞAN</td><td>05375050312</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>181807</td><td>ERDEMLİ</td><td>3408,90</td><td>23</td><td>192</td><td>AHMET &#199;AVUŞ</td><td>05358642014</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>42365</td><td>FATİH</td><td>4247,87</td><td>13</td><td>547</td><td>SİNAN G&#220;NG&#214;R</td><td>05343698302</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>42366</td><td>FEVZİOĞLU</td><td>618,77</td><td>9</td><td>984</td><td>FATMA USLU</td><td>05376215507</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>181809</td><td>G&#220;LBAYIR</td><td>4889</td><td>24</td><td>365</td><td>HASAN TEZCAN</td><td>05447756664</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>42367</td><td>G&#220;NEY</td><td>10,49</td><td>6</td><td>255</td><td>MEHMET ALİ DUMLUPINAR</td><td>05078815354</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>181811</td><td>G&#220;ZEL&#214;Z</td><td>4917,38</td><td>25</td><td>314</td><td>Y&#220;KSEL AKTAŞ</td><td>05372303853</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>181813</td><td>İ&#199;MECE</td><td>1254,85</td><td>26</td><td>64</td><td>SAMİ BEDİRHANBEYOĞLU</td><td>05423838878</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>42368</td><td>İDRİS</td><td>4624,95</td><td>3</td><td>467</td><td>ABDULKADİR KARAKAYA</td><td>05302469818</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>181815</td><td>KALE</td><td>2488,59</td><td>27</td><td>55</td><td>Sami &#214;ZBAY</td><td>05425720275</td><td>651 64 84</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>42369</td><td>KARACABEY</td><td>11646,35</td><td>11</td><td>1885</td><td>S&#220;LEYMAN &#199;İFT&#199;İOĞLU</td><td>05423983835</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>181819</td><td>KAVAK</td><td>2074,41</td><td>28</td><td>253</td><td>MEHMET ALİ &#199;AKIR</td><td>05324653295</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>181821</td><td>KAYADİBİ</td><td>1686,46</td><td>29</td><td>858</td><td>MUHARREM &#214;ZKAN</td><td>05366646747</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>42370</td><td>KELER</td><td>235,19</td><td>4</td><td>358</td><td>YAHYA AKMEŞE </td><td>05373729352</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>181823</td><td>KEŞLİK</td><td>3826,81</td><td>30</td><td>67</td><td>EMİR METİN</td><td>05366788752</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>181825</td><td>KOVALI</td><td>2498,88</td><td>31</td><td>727</td><td>HAKAN BURCU</td><td>05072062302</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>42371</td><td>K&#214;ŞK</td><td>9,81</td><td>2</td><td>413</td><td>SAFFET SALİH K&#220;RK&#199;&#220;</td><td>05346194010</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>181827</td><td>KUŞ&#199;U</td><td>911,82</td><td>32</td><td>308</td><td>FERUDUN &#214;ZT&#220;RK</td><td>05366127726</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>42372</td><td>KUZEY</td><td>29,87</td><td>7</td><td>264</td><td>MEHMET CAN</td><td>05363734210</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>42373</td><td>MAHMUDİYE</td><td>7170,01</td><td>12</td><td>437</td><td>G&#220;LHAN G&#214;LBAŞI</td><td>05510688785</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>181831</td><td>MUSAHACILI</td><td>3263,60</td><td>33</td><td>894</td><td>YAKUP ŞEN</td><td>05302393454</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>181833</td><td>OVA&#199;İFTLİK</td><td>1647,83</td><td>34</td><td>364</td><td>FATİH SARI</td><td>05359730631</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>181835</td><td>SOĞANLI</td><td>2433,07</td><td>35</td><td>304</td><td>MUSTAFA ABLAK</td><td>05326362472</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>42374</td><td>YAVUZ SELİM</td><td>1963,36</td><td>14</td><td>1383</td><td>FATİH MAVİYILDIZ</td><td>05428430034</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>42375</td><td>YENİŞEHİR</td><td>107,52</td><td>8</td><td>206</td><td>BURHANETTİN Y&#214;R&#220;K</td><td>05431183938</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>YEŞİLHİSAR</td><td>181837</td><td>YEŞİLOVA</td><td>2702,70</td><td>36</td><td>331</td><td>MEHMET AKBACA</td><td>05452884646</td><td>&nbsp;</td>
+		</tr>
+	</table>
+</div>
