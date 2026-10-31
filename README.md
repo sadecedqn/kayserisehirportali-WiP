@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="assets/icons/kbb.png" alt="Kayseri Şehir Portalı" width="110" />
-
-# 🏙️ Kayseri Şehir Portalı
+# <img src="assets/icons/kbb.png" alt="KBB" height="52" align="absmiddle" /> Kayseri Şehir Portalı
 
 ### Kayseri'nin dijital ikizi, tek bir haritada.
 
-Kandilli Rasathanesi, AFAD ve Kayseri Büyükşehir Belediyesi gibi kaynaklardan gelen açık verileri interaktif bir harita üzerinde buluşturan şehir rehberi.
+Kandilli Rasathanesi, AFAD ve Kayseri Büyükşehir Belediyesi gibi kaynaklardan gelen açık verileri, 16 ilçe ve 711 mahalleyi kapsayan interaktif bir harita üzerinde buluşturan şehir rehberi.
 
 <a href="http://kayserisehirportali.tr"><img src="https://img.shields.io/badge/Canlı_Demo-kayserisehirportali.tr-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Canlı Demo" /></a>
 
@@ -20,7 +18,7 @@ Kandilli Rasathanesi, AFAD ve Kayseri Büyükşehir Belediyesi gibi kaynaklardan
 ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)
 
 ![Açık Veri](https://img.shields.io/badge/Açık_Veri-Destekliyor-2563eb?style=flat-square)
-![Canlı Veri](https://img.shields.io/badge/Canlı_Veri-Kandilli_%7C_Open--Meteo-dc2626?style=flat-square)
+![Aktif Katman](https://img.shields.io/badge/Aktif_Katman-11-16a34a?style=flat-square)
 ![Dil](https://img.shields.io/badge/Dil-Türkçe-e11d48?style=flat-square)
 ![Durum](https://img.shields.io/badge/Durum-Geliştiriliyor_(WiP)-f59e0b?style=flat-square)
 ![Stars](https://img.shields.io/github/stars/sadecedqn/kayserisehirportali-WiP?style=flat-square&color=eab308)
@@ -40,7 +38,6 @@ Kandilli Rasathanesi, AFAD ve Kayseri Büyükşehir Belediyesi gibi kaynaklardan
 
 ## 📸 Ekran Görüntüleri
 
-<!-- Ekran görüntülerini repoya ekleyip yolları güncelle -->
 <div align="center">
 
 | Ana Sayfa | Şehir Portalı |
@@ -53,11 +50,16 @@ Kandilli Rasathanesi, AFAD ve Kayseri Büyükşehir Belediyesi gibi kaynaklardan
 
 ## ✨ Özellikler
 
-- 🗺️ **İnteraktif harita:** Leaflet.js tabanlı, Canvas destekli harita motoru ile yüzlerce nokta akıcı biçimde görüntülenir.
-- ⚡ **Dinamik filtreleme:** Sayfayı yenilemeden katmanlar arasında anında geçiş yapılır.
+- 🗺️ **İnteraktif harita:** Leaflet.js tabanlı harita motoruyla yüzlerce nokta akıcı biçimde görüntülenir.
+- ⚡ **Dinamik filtreleme:** Sayfayı yenilemeden katmanlar arasında anında geçiş yapılır. Aktif ve planlanan hizmetler ayrı sekmelerde listelenir.
 - 🔎 **Akıllı arama:** Türkçe karakterlerden bağımsız arama ve Nominatim ile Türkiye genelinde yer/adres arama.
-- 🌋 **Canlı deprem takibi:** Kandilli Rasathanesi verileriyle son depremler.
-- 🚨 **Afet hazırlığı:** AFAD toplanma alanlarını haritada görme ve yol tarifi alma.
+- 🏘️ **İlçe ve mahalle sınırları:** Seçilen ilçe veya mahallenin sınırları haritada çizilir.
+- 🧑‍💼 **Muhtarlık rehberi:** 711 mahallenin nüfus, alan ve muhtar iletişim bilgileri, ilçe bazlı listelenir.
+- 📊 **İlçe istatistikleri:** 16 ilçenin cadde, sokak, bulvar, meydan ve küme sayıları.
+- 🌋 **Canlı deprem takibi:** Kandilli verileriyle son depremler, şiddet ve derinlik bilgisiyle.
+- 🚨 **Afet hazırlığı:** AFAD toplanma alanlarını kapasiteleriyle birlikte görme ve yol tarifi alma.
+- 🥬 **Hal fiyatları:** Kayseri BB Yaş Sebze ve Meyve Hali fiyat listesi.
+- 🕊️ **Vefat ilanları:** Taziye noktalarını haritada görme ve cenaze yerine yol tarifi alma.
 - 🧭 **Tek tıkla navigasyon:** Seçilen noktaya Google Haritalar üzerinden yol tarifi.
 - 🌤️ **Anlık hava durumu:** Open-Meteo ile Kayseri'nin güncel sıcaklığı.
 - 🔄 **Otomatik veri senkronizasyonu:** Belediye API'leri cron ile çekilip veritabanında önbelleğe alınır, harita bu önbellekten beslenir.
@@ -69,46 +71,54 @@ Kandilli Rasathanesi, AFAD ve Kayseri Büyükşehir Belediyesi gibi kaynaklardan
 
 ## 🗺️ Harita Katmanları
 
-### ✅ Aktif Hizmetler
+### ✅ Aktif Hizmetler (11)
 
 | Katman | Açıklama | Kaynak |
 |---|---|---|
-| 💊 **Nöbetçi Eczaneler** | Güncel nöbetçi eczane listesi | Kayseri BB Açık Veri |
 | 🌋 **Son Depremler** | Canlı deprem akışı | Kandilli Rasathanesi |
-| 🏕️ **Toplanma Alanları** | Afet anında güvenli bölgeler | AFAD & Açık Veri Portalı |
-| 🅿️ **Şehir Otoparkları** | Otopark konumları | Kayseri BB Açık Veri |
-| 📶 **Ücretsiz Wi-Fi** | Belediye Wi-Fi noktaları | Kayseri BB Açık Veri |
-| 🛒 **Semt Pazarları** | Pazar yerleri | Kayseri BB Açık Veri |
+| 🏕️ **Afet Toplanma Alanları** | Afet anında güvenli bölgeler ve kapasiteleri | AFAD & Açık Veri Portalı |
 | 🏛️ **Tarihi Yerler** | Müze ve gezilecek yerler | İl Kültür Turizm Müdürlüğü |
+| 🅿️ **Şehir Otoparkları** | Otopark konumları | Kayseri BB Açık Veri |
+| 🛒 **Pazarlar** | Semt pazarı yerleri ve günleri | Kayseri BB Açık Veri |
+| 💊 **Nöbetçi Eczaneler** | Güncel nöbetçi eczane listesi | Kayseri BB Açık Veri |
+| 📶 **Ücretsiz Wi-Fi** | Belediye Wi-Fi noktaları | Kayseri BB Açık Veri |
+| 🕊️ **Vefat İlanları** | Taziye noktaları ve mezarlık bilgisi | Kayseri BB Açık Veri |
+| 🧑‍💼 **Mahalle/Muhtarlık Bilgileri** | 711 mahalle, muhtar ve nüfus bilgisi | Kayseri BB Açık Veri |
+| 📊 **İlçe İstatistikleri** | 16 ilçenin cadde, sokak ve bulvar sayıları | Kayseri BB CBS |
+| 🥬 **Hal Fiyatları** | Yaş sebze ve meyve hali fiyat listesi | Kayseri BB |
 
-### 🚧 Sınırlı / Veri Bekleyen Hizmetler
+### 🚧 Planlanan / Kısıtlı Hizmetler (5)
 
 | Katman | Durum |
 |---|---|
-| 📹 **Şehir Kameraları** | Konumlar haritada gösterilir. Canlı yayın KVKK gereği kapalıdır. |
-| 🚲 **KAYBİS İstasyonları** | İlgili kurum tarafından aktif API sunulmadığı için veri bekleniyor. |
-| 💧 **Su Kesintileri** | İlgili kurum tarafından aktif API sunulmadığı için veri bekleniyor. |
-| 🔌 **Şarj Noktaları** | İlgili kurum tarafından aktif API sunulmadığı için veri bekleniyor. |
-| ⚽ **Spor Tesisleri** | İlgili kurum tarafından aktif API sunulmadığı için veri bekleniyor. |
+| 📹 **Şehir Kameraları** | Konumlar haritada gösterilir. Canlı yayın KVKK kararı gereği kapalıdır. |
+| 🚲 **KAYBİS İstasyonları** | Planlanıyor, veri entegrasyonu bekleniyor. |
+| 💧 **Su Kesintileri** | Planlanıyor, veri entegrasyonu bekleniyor. |
+| 🔌 **Elektrikli Şarj Noktaları** | Planlanıyor, veri entegrasyonu bekleniyor. |
+| ⚽ **Spor Tesisleri ve Parklar** | Planlanıyor, veri entegrasyonu bekleniyor. |
 
 ---
 
 ## 🧩 Mimari
 
-Veriler iki yoldan gelir: belediye verileri cron ile MySQL önbelleğine alınır, diğerleri ise doğrudan istemciden veya yerel veri dosyalarından okunur.
+Veriler üç yoldan gelir: belediye API'leri cron ile MySQL önbelleğine alınır, hal fiyatları ayrı bir önbellekle sunulur, diğerleri ise doğrudan istemciden veya yerel veri dosyalarından okunur.
 
 ```mermaid
 flowchart LR
     subgraph Kaynaklar
         A[Kayseri BB Açık Veri API]
+        H[Kayseri BB Hal Fiyatları]
         B[Kandilli Deprem API]
         C[Open-Meteo]
         D[(assets/data<br/>GeoJSON / JSON)]
+        X[Mahalleler.xls]
     end
 
-    A -->|cron_guncelle.php<br/>düzenli çekim| DB[(MySQL<br/>api_cache)]
+    A -->|cron_guncelle.php| DB[(MySQL<br/>api_cache)]
+    H -->|api_getir.php<br/>12 saat önbellek| DB
+    X -->|muhtar_cevir.php| D
     DB -->|api_getir.php| JS
-    B --> JS[script.js<br/>Leaflet harita]
+    B --> JS[portal.php<br/>Leaflet harita]
     C --> JS
     D --> JS
     JS --> U([Kullanıcı])
@@ -116,10 +126,16 @@ flowchart LR
 
 | Veri | Yol |
 |---|---|
-| Nöbetçi eczaneler, Wi-Fi noktaları | Cron → MySQL `api_cache` → `api/api_getir.php` → harita |
-| Depremler | Doğrudan istemciden Kandilli API |
+| Nöbetçi eczaneler, Wi-Fi noktaları, vefat ilanları | Cron → MySQL `api_cache` → `api/api_getir.php` → harita |
+| Hal fiyatları | `api/api_getir.php` fiyat listesini çeker, 12 saat önbelleğe alır |
+| Muhtarlar | `Mahalleler.xls` → `muhtar_cevir.php` → `assets/data/muhtarlar.json` |
+| Depremler | Doğrudan istemciden Kandilli verisini sunan API |
 | Otoparklar, pazarlar, toplanma alanları, tarihi yerler | `assets/data/` altındaki yerel GeoJSON/JSON dosyaları |
+| İlçe ve mahalle sınırları | Nominatim (OpenStreetMap) |
 | Hava durumu | Doğrudan istemciden Open-Meteo |
+
+> [!NOTE]
+> Vefat ilanlarındaki taziye adresleri, cron çalışırken Nominatim ile koordinata çevrilir. Adresi çözülemeyen ilanlar haritada gösterilmez.
 
 ---
 
@@ -132,7 +148,7 @@ flowchart LR
 | **E-posta** | [PHPMailer](https://github.com/PHPMailer/PHPMailer) (hesap doğrulama) |
 | **Frontend** | HTML5, Vanilla JavaScript, [Tailwind CSS](https://tailwindcss.com/) (CDN) |
 | **Harita** | [Leaflet.js](https://leafletjs.com/) 1.9.4, [OpenStreetMap](https://www.openstreetmap.org/) karoları |
-| **Arama** | [Nominatim](https://nominatim.openstreetmap.org/) (Geocoding) |
+| **Arama ve sınırlar** | [Nominatim](https://nominatim.openstreetmap.org/) (Geocoding) |
 | **İkonlar** | [Font Awesome](https://fontawesome.com/) 6.4 |
 | **Veri Formatı** | GeoJSON, JSON |
 
@@ -142,7 +158,7 @@ flowchart LR
 
 ### Gereksinimler
 
-- PHP 7.4 veya üzeri (`pdo_mysql` ve `curl` eklentileri açık)
+- PHP 7.4 veya üzeri (`pdo_mysql`, `curl`, `mbstring` ve `dom` eklentileri açık)
 - MySQL / MariaDB
 - Apache / Nginx ya da XAMPP, WAMP, Laragon gibi yerel bir sunucu
 - İnternet bağlantısı (harita karoları, CDN'ler ve canlı API'ler için)
@@ -197,15 +213,31 @@ $password = 'SIFRE';
 E-posta (SMTP) ayarlarını da kendi sunucuna göre `auth/kayit.php` içinde düzenle.
 
 
-### 5. Verileri ilk kez çek
+```gitignore
+config/baglan.php
+api/hal_cache.json
+```
 
-Tarayıcıdan veya terminalden `cron_guncelle.php` dosyasını bir kez çalıştır:
+### 5. Muhtar verisini oluştur
+
+Muhtar rehberi `assets/data/muhtarlar.json` dosyasını kullanır. Bu dosya, `Mahalleler.xls` dosyasından üretilir. Tarayıcıdan `muhtar_cevir.php` sayfasını **bir kez** aç:
+
+```
+http://localhost:8000/muhtar_cevir.php
+```
+
+Ekranda "Harika! muhtarlar.json dosyası tüm detaylarıyla güncellendi" mesajını görürsen dosya hazırdır. İşlem bittikten sonra bu dosyayı sunucudan silmen ya da erişimi kapatman önerilir.
+
+### 6. Verileri ilk kez çek
 
 ```bash
 php api/cron_guncelle.php
 ```
 
-### 6. Otomatik güncellemeyi kur
+> [!NOTE]
+> `api/` klasörü yazılabilir olmalıdır. Hal fiyatları için `api/hal_cache.json` önbellek dosyası burada oluşturulur.
+
+### 7. Otomatik güncellemeyi kur
 
 Verilerin 5 dakikada bir yenilenmesi için sunucunda cron tanımla:
 
@@ -213,7 +245,7 @@ Verilerin 5 dakikada bir yenilenmesi için sunucunda cron tanımla:
 */5 * * * * php /yol/kayserisehirportali-WiP/api/cron_guncelle.php
 ```
 
-### 7. Çalıştır
+### 8. Çalıştır
 
 ```bash
 php -S localhost:8000
@@ -232,14 +264,20 @@ Portal, `hizmet` parametresiyle istenen katmanı otomatik açar:
 
 | Adres | Açılan Katman |
 |---|---|
-| `portal.php?hizmet=nobetci_eczane` | Nöbetçi Eczaneler |
 | `portal.php?hizmet=deprem` | Son Depremler |
-| `portal.php?hizmet=toplanma_alanlari` | Toplanma Alanları |
-| `portal.php?hizmet=otoparklar` | Şehir Otoparkları |
-| `portal.php?hizmet=wifi_noktalari` | Ücretsiz Wi-Fi |
-| `portal.php?hizmet=pazar_yerleri` | Semt Pazarları |
+| `portal.php?hizmet=toplanma_alanlari` | Afet Toplanma Alanları |
 | `portal.php?hizmet=gezilecek_yerler` | Tarihi Yerler |
-| `portal.php?hizmet=kameralar` | Şehir Kameraları |
+| `portal.php?hizmet=otoparklar` | Şehir Otoparkları |
+| `portal.php?hizmet=pazar_yerleri` | Pazarlar |
+| `portal.php?hizmet=nobetci_eczane` | Nöbetçi Eczaneler |
+| `portal.php?hizmet=wifi_noktalari` | Ücretsiz Wi-Fi |
+| `portal.php?hizmet=vefat` | Vefat İlanları |
+| `portal.php?hizmet=muhtar` | Mahalle/Muhtarlık Bilgileri |
+| `portal.php?hizmet=cadde_sokak` | İlçe İstatistikleri |
+| `portal.php?hizmet=hal` | Hal Fiyatları |
+| `portal.php?hizmet=kameralar` | Şehir Kameraları (kısıtlı) |
+
+Parametre verilmezse tüm katmanlar listelenir (`tumu`).
 
 ---
 
@@ -248,10 +286,11 @@ Portal, `hizmet` parametresiyle istenen katmanı otomatik açar:
 ```
 📦 kayserisehirportali-WiP
 ├── 📄 index.php                # Karşılama sayfası (hero harita, hizmetler, veri kaynakları)
-├── 📄 portal.php               # Tam ekran interaktif şehir portalı
+├── 📄 portal.php               # Tam ekran interaktif şehir portalı (harita ve arayüz mantığı)
+├── 📄 muhtar_cevir.php         # Mahalleler.xls dosyasından muhtarlar.json üretir
 │
 ├── 📁 api/
-│   ├── 📄 api_getir.php        # Önbellekteki veriyi JSON olarak sunar
+│   ├── 📄 api_getir.php        # Önbellekteki veriyi JSON olarak sunar, hal fiyatlarını çeker
 │   └── 📄 cron_guncelle.php    # Belediye API'lerinden veriyi çekip veritabanına yazar
 │
 ├── 📁 auth/
@@ -266,10 +305,11 @@ Portal, `hizmet` parametresiyle istenen katmanı otomatik açar:
 ├── 📁 phpmailer/               # PHPMailer kütüphanesi (kurulum 2. adım)
 │
 └── 📁 assets/
-    ├── 📄 script.js            # Harita, filtreleme, arama ve katman mantığı
     ├── 📄 style.css            # Özel stiller
-    ├── 📁 icons/               # Logolar ve katman ikonları
+    ├── 📁 icons/               # Logolar ve kurum/katman görselleri
     └── 📁 data/                # Yerel veri setleri
+        ├── 📄 Mahalleler.xls                               # Mahalle ve muhtar kaynak tablosu
+        ├── 📄 muhtarlar.json                               # muhtar_cevir.php ile üretilir
         ├── 📄 kayseri-gezilecek-yerler.json
         ├── 📄 otoparklar-456371.geojson.txt
         ├── 📄 pazar_yeri-4932711.geojson.txt
@@ -282,12 +322,12 @@ Portal, `hizmet` parametresiyle istenen katmanı otomatik açar:
 
 Bu proje, veriyi kendisi üretmez. Aşağıdaki kaynaklardan gelen açık verileri görselleştirir:
 
-- 🏛️ **Kayseri Büyükşehir Belediyesi Açık Veri Portalı**
-- 🌋 **Kandilli Rasathanesi** (deprem verileri)
+- 🏛️ **Kayseri Büyükşehir Belediyesi Açık Veri Portalı** (eczane, Wi-Fi, vefat, muhtar, hal fiyatları)
+- 🌋 **Kandilli Rasathanesi** (deprem verileri, [Orhan Aydoğdu Deprem API](https://api.orhanaydogdu.com.tr) üzerinden)
 - 🚨 **AFAD** (toplanma alanları)
 - 🎭 **İl Kültür ve Turizm Müdürlüğü** (tarihi yerler)
 - 🌤️ **[Open-Meteo](https://open-meteo.com/)** (hava durumu)
-- 🗺️ **[OpenStreetMap](https://www.openstreetmap.org/copyright)** katkıcıları (harita ve arama)
+- 🗺️ **[OpenStreetMap](https://www.openstreetmap.org/copyright)** katkıcıları (harita, arama ve sınırlar)
 
 > [!IMPORTANT]
 > Verilerin güncelliği ve doğruluğu ilgili kurumların API'lerine bağlıdır. Acil durumlarda resmi kurumların kanallarını esas alın.
@@ -299,7 +339,7 @@ Bu proje, veriyi kendisi üretmez. Aşağıdaki kaynaklardan gelen açık verile
 - [ ] KAYBİS istasyonları için veri entegrasyonu
 - [ ] Su kesintileri (KASKİ) entegrasyonu
 - [ ] Elektrikli araç şarj noktaları
-- [ ] Spor tesisleri katmanı
+- [ ] Spor tesisleri ve parklar katmanı
 - [ ] Koyu tema desteği
 
 ---
